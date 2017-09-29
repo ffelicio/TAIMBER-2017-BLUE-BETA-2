@@ -1,0 +1,56 @@
+
+.classe_descricao_imagem, .classe_descricao_imagem_campo, .classe_descricao_imagem_descricao{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+
+}
+
+.classe_descricao_imagem{
+	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_descricao_imagem_descricao{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_descricao_imagem_emoticons_separa{
+	
+	float: left;
+	display: table;
+	width: 16px;
+	
+}
+
+.classe_descricao_imagem_emoticons{
+	
+	float: left;
+	display: table;
+	margin-right: 10px;
+	margin-top: 6px;
+	
+}
+
+.classe_descricao_imagem_campo_botao{
+	
+	float: left;
+	display: table;	
+	
+}
+
+.classe_descricao_imagem{
+	
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}

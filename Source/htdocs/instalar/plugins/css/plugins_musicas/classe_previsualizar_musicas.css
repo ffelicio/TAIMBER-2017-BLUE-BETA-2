@@ -1,0 +1,15 @@
+.classe_campo_previsualizar_musicas_publicacao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_previsualizar_musicas_publicacao:empty{
+	
+	display: none;
+	
+}

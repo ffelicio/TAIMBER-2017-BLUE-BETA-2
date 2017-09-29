@@ -1,0 +1,15 @@
+.classe_numero_hashtags, .classe_numero_hashtags_separa{
+
+	float: left;
+	width: 100%;
+	text-align: center;
+	font-size: 22px !important;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_numero_hashtags_separa{
+	
+	margin-bottom: 3px;
+	
+}

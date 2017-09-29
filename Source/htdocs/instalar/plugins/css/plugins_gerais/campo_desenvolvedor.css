@@ -1,0 +1,50 @@
+.classe_campo_desenvolvedor, .classe_campo_desenvolvedor_2{
+
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	display: table;
+	table-layout: fixed;
+	position: relative;
+	margin-bottom: 3px;
+	
+}
+
+.classe_campo_desenvolvedor_2{
+	
+	padding-bottom: 8px;
+	margin-bottom: 15px;
+	
+}
+
+.classe_campo_desenvolvedor_separa, .classe_campo_desenvolvedor_separa_titulo, .classe_campo_desenvolvedor_separa_conteudo, .classe_campo_desenvolvedor_separa_conteudo_2, .classe_campo_desenvolvedor_separa_2{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_campo_desenvolvedor_separa_2{
+	
+	margin-top: 10px;
+	
+}
+
+.classe_campo_desenvolvedor_separa_titulo, .classe_campo_desenvolvedor_separa_conteudo{
+
+	font-size: 12px;
+	
+}
+
+.classe_campo_desenvolvedor_separa_conteudo{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_desenvolvedor_separa_conteudo_2{
+	
+	width: 100%;
+
+}

@@ -1,0 +1,63 @@
+.classe_bloco_aniversariantes_perfil, .classe_resultados_aniversariantes, .classe_abrir_aniversariantes{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_abrir_aniversariantes{
+
+	width: 96%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 2%;
+	padding-right: 2%;
+	cursor: pointer;
+	margin-bottom: 5px;
+	
+}
+
+.classe_resultados_aniversariantes{
+
+	margin-bottom: 5px;
+	max-height: 300px;
+	display: block;
+	overflow-y: scroll;
+
+}
+
+.classe_parabens_aniversario_texto, .classe_parabens_aniversario_imagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	text-align: center;
+	margin-bottom: 8px;
+
+}
+
+.classe_parabens_aniversario_imagem{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_parabens_aniversario_imagem div{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_mensagem_parabens_aniversario{
+	
+	float: left;
+	width: 97.3%;
+	display: table;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 2px;
+	
+}

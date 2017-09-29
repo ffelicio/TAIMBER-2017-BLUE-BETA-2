@@ -1,0 +1,216 @@
+.classe_janela_troca_mensagens{
+	
+	position: fixed;
+	bottom: 0px;
+	right: 245px;
+	width: 200px;
+	height: 425px;
+	display: none;
+	table-layout: fixed;
+    background-color: #ffffff;
+	z-index: 999999;
+	
+	border-width: 1px;
+	border-style: solid;
+	border-bottom-width: 0px;
+	
+}
+
+.classe_novo_chat_usuario{
+	
+	float: left;
+	width: 100%;
+	padding-bottom: 2px;
+	
+}
+
+.classe_novo_chat_usuario_topo{
+	
+	float: left;
+	width: 100%;
+	padding: 5px;
+	display: table;
+	table-layout: fixed;
+	box-sizing: border-box;
+
+}
+
+.classe_novo_chat_usuario_mensagens{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 245px;
+    display: block;
+	margin-bottom: 3px;
+	overflow-y: scroll;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+
+}
+
+.classe_novo_chat_usuario_entrada{
+	
+	float: left;
+	width: 86%;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-bottom: 1px;
+	position: relative;
+	
+}
+
+.classe_novo_chat_usuario_emoticons, .classe_campo_enviar_mensagem_chat{
+	
+	float: none;
+	display: table;
+	position: absolute;
+	right: -17px;
+	top: 8px;
+	cursor: pointer;
+	
+}
+
+.classe_novo_chat_usuario_emoticons{
+
+	top: 52px;
+	
+}
+
+.classe_mensagem_chat{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 8px;
+
+}
+
+.classe_mensagem_chat_1, .classe_mensagem_chat_2{
+
+	max-width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	padding-right: 7px;
+	font-size: 12px;
+	word-wrap: break-word;
+	max-width: 168px;
+	box-sizing: border-box;
+	border-width: 1px;
+	border-style: solid;
+	
+}
+
+.classe_mensagem_chat_1{
+	
+	float: right;
+	background-color: #dee5ed;
+	border-color: #ced9e4;
+	
+}
+
+.classe_mensagem_chat_2{
+	
+	float: left;
+	background-color: #ffffff;
+	border-color: #e1e4e8;
+
+}
+
+.classe_opcoes_janela_troca_mensagens_chat{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 7px;
+	cursor: pointer;
+	
+}
+
+.classe_opcoes_janela_troca_mensagens_chat_div_1{
+	
+	float: right;
+	margin-left: 5px;
+	display: table;
+	table-layout: fixed;
+	cursor: pointer;
+	
+}
+
+.classe_opcoes_janela_troca_mensagens_chat_div_2{
+	
+	float: right;
+	margin-top: -2px;
+	margin-right: 5px;
+	display: table;
+	table-layout: fixed;
+	cursor: pointer;
+	
+}
+
+.classe_opcoes_janela_troca_mensagens_chat_div_3{
+	
+	float: left;
+	margin-right: 5px;
+	display: table;
+	table-layout: fixed;
+	cursor: pointer;	
+	
+}
+
+.classe_novo_chat_usuario_upload_imagem{
+	
+	float: left;
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
+    display: table;
+	margin-top: 3px;
+	
+}
+
+.classe_imagem_mensagem_chat{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_janela_troca_mensagens_barra_progresso{
+	
+	float: left;
+	width: 94%;
+	display: table;
+	padding-left: 3%;
+	padding-right: 3%;
+	padding-top: 5px;
+	
+}
+
+.classe_imagem_mensagem_chat img, .classe_mensagem_chat_1 img, .classe_mensagem_chat_2 img{
+	
+	max-width: 80%;
+	height: auto;
+
+}
+
+.classe_mensagem_chat_1 *, .classe_mensagem_chat_2 *{
+	
+	background-color: transparent;
+	font-size: 12px;
+	color: #2c3635;
+	
+}
+
+.classe_mensagem_chat_1 a, .classe_mensagem_chat_2 a{
+
+	color: #3f729b;
+	
+}

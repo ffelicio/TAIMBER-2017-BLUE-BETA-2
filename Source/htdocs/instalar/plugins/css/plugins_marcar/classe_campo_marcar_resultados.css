@@ -1,0 +1,137 @@
+
+.classe_campo_marcar_entrada{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 8px;
+	
+}
+
+.classe_campo_marcar_abre_dialogo{
+	
+    float: left;
+    width: auto;
+	height: auto;
+	cursor: pointer;
+	
+}
+
+.classe_campo_marcar_balao_notifica{
+	
+	float: left;
+	display: table;
+	position: relative;
+	margin-left: 8px;
+	margin-top: 3px;
+	
+}
+
+.classe_campo_marcar_entrada input[type="text"]{
+
+	width: 100%;
+    float: left;
+	
+}
+
+.classe_campo_marcar_resultados{
+
+    float: left;
+	width: 100%;
+    display: block;
+	max-height: 300px;
+	overflow-y: scroll;
+	
+}
+
+.classe_campo_marcar_usuario{
+	
+	float: left;
+	width: 47%;
+	margin-left: 0.9%;
+	margin-right: 0.5%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 10px;
+	
+}
+
+.classe_campo_marcar_usuario_perfil{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;	
+	
+}
+
+.classe_campo_marcar_usuario_adicionar{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_campo_marcar_usuario_adicionar_botao{
+	
+	float: left;
+	
+}
+
+.classe_campo_marcar_entrada_salvar{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_marcar_entrada_salvar span{
+
+	float: left;
+	width: 49%;
+	margin-right: 1%;
+	margin-bottom: 8px;
+	
+}
+
+.classe_div_usuarios_marcados{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+	position: relative;
+	
+}
+
+.classe_usuario_marcado{
+	
+	float: left;
+	margin-bottom: 3px;
+	position: relative;
+	
+}
+
+.classe_div_usuarios_marcados_titulo{
+	
+	float: left;
+	margin-right: 3px;	
+	
+}
+
+.classe_div_usuarios_marcados:empty, .classe_campo_marcar_resultados:empty{
+	
+	display: none;
+	
+}

@@ -1,0 +1,62 @@
+.imagem_perfil_usuario_deslogado{
+	
+	float: none;
+	width: 200px;
+	max-height: 350px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	text-align: center;
+	
+}
+
+.imagem_perfil_usuario_deslogado div{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.imagem_perfil_usuario_deslogado img{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.nome_usuario_perfil_deslogado{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	text-align: center;
+	font-size: 15px;
+	margin-top: 2px;
+	margin-bottom: 15px;
+	
+}
+
+.classe_informa_visitante_perfil_deslogado{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	text-align: center;
+	font-size: 15px;
+	
+}
+
+.classe_perfil_usuario_deslogado{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	background-color: #ffffff;
+	padding: 10px;
+	box-sizing: border-box;
+
+}

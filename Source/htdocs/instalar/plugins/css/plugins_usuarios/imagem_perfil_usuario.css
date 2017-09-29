@@ -1,0 +1,19 @@
+.classe_div_imagem_perfil_grande{
+	
+	float: none;
+	width: 200px;
+	display: block;
+	max-height: 300px;
+	overflow-y: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 3px;
+	
+}
+
+.classe_div_imagem_perfil_grande img{
+	
+	float: left;
+	width: 100%;
+	
+}

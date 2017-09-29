@@ -1,0 +1,6 @@
+Linguagens: Php 7, JavaScript, Css, Html, Mysqli
+Mobile: Sim
+Licença: Open-Source
+Data de upload: 29-09-2017
+Status do projeto: Ativo
+Versão: Beta 2

@@ -1,0 +1,29 @@
+.classe_div_caixa_sistema{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	background-color: #ffffff;
+	
+}
+
+.classe_div_caixa_sistema_conteudo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	background-color: #ffffff;
+	
+}
+
+.classe_div_caixa_sistema_2{
+	
+	float: left;
+	width: 100%;
+	padding: 5px;
+	display: table;
+	box-sizing: border-box;
+	background-color: #ffffff;
+	
+}

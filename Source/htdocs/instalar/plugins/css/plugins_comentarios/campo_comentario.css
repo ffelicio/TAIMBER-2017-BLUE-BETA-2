@@ -1,0 +1,411 @@
+.classe_campo_comentario_entrada, .classe_campo_comentario_entrada_2{
+
+    float: left;
+	width: 100%;
+	display: none;
+	margin-top: 7px;
+    margin-bottom: 3px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
+.classe_campo_comentario_entrada_2{
+
+	display: table;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_campo_comentario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	padding-top: 4px;
+	padding-bottom: 20px;
+	margin-top: 5px;
+    margin-bottom: 7px;
+	position: relative;
+	
+}
+
+.classe_div_comentar_numeros{
+
+    float: left;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada_responde, .classe_div_campo_comentario_campo_entrada_album, .classe_div_campo_comentario_campo_opcoes_album, .classe_div_campo_comentario_campo_entrada_responde_album, .classe_div_campo_comentario_campo_opcoes_responde_album{
+
+    float: left;
+	display: table;
+	width: 87%;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada{
+	
+	float: left;
+	width: 90%;
+	display: table;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada_responde_album{
+	
+	width: 100%;
+	
+}
+
+.classe_div_campo_comentario_campo_opcoes_responde_album{
+	
+	width: 100%;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 5px;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada_album, .classe_div_campo_comentario_campo_opcoes_album{
+
+	float: right;
+	width: 85%;
+	
+}
+
+.classe_div_campo_comentario_campo_opcoes_album{
+	
+	margin-top: 5px;
+	
+}
+
+.classe_div_campo_comentario_campo_opcoes{
+
+	position: absolute;
+	left: 53px;
+	top: 40px;
+	display: table;
+	
+}
+
+.classe_div_campo_comentario_campo_opcoes_responde{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 5px;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada_responde{
+	
+	width: 100%;
+	
+}
+
+.classe_div_campo_comentario_perfil, .classe_div_campo_comentario_perfil_responde, .classe_div_campo_comentario_perfil_responde_album{
+	
+	float: left;
+	width: 45px;
+	height: 45px;
+	margin-right: 8px;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_div_campo_comentario_perfil_album{
+	
+	float: left;
+	width: 13%;
+	margin-right: 1%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_div_campo_comentario_perfil_responde{
+	
+	width: 13%;
+	padding-bottom: 15px;
+	
+}
+
+.classe_div_campo_comentario_perfil_responde_album{
+	
+	width: 13.5%;
+	
+}
+
+.classe_visualizador_comentarios, .classe_visualizador_comentarios_scroll{
+
+    float: left;
+	width: 100%;
+	padding-bottom: 5px;
+	display: table;
+	margin-bottom: 5px;
+
+}
+
+.classe_visualizador_comentarios_scroll{
+	
+	display: block !important;
+	max-height: 280px !important;
+	overflow-y: scroll !important;
+
+}
+
+.classe_comentario_usuario{
+	
+	float: left;
+	width: 100%;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 3px;
+	position: relative;
+
+}
+
+.classe_comentario_usuario_conteudo, .classe_comentario_usuario_data, .classe_comentario_usuario_responder, .classe_comentario_usuario_conteudo_padrao{
+	
+	float: left;
+	width: 100%;
+    margin-top: 3px;
+	margin-bottom: 3px;
+	display: table;
+	table-layout: fixed;
+	word-wrap: break-word;
+	position: relative;
+	
+}
+
+.classe_comentario_usuario_conteudo_padrao{
+	
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.classe_comentario_usuario_conteudo_sub{
+	
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_comentario_usuario_data{
+
+	font-size: 11px;
+	margin-top: 0px;
+	
+}
+
+.classe_campo_paginar_comentarios{
+	
+	float: left;
+	width: 100%;
+	text-align: center;
+	cursor: pointer;
+	display: none;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	
+}
+
+.classe_div_opcoes_comentario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 3px;
+	
+}
+
+.classe_div_opcoes_comentario_separa{
+	
+	float: right;
+	margin-left: 10px;
+	
+}
+
+.classe_separa_item_campo_comentario{
+	
+	float: left;
+	margin-right: 20px;
+	
+}
+
+.classe_comentario_usuario_responder{
+
+	margin-top: 5px;
+	
+}
+
+.classe_campo_responde_comentario_span, .classe_campo_responde_comentario{
+	
+	float: left;
+	width: 100%;
+	padding-left: 8px;
+	padding-right: 8px;
+	display: table;
+	margin-bottom: 3px;
+	box-sizing: border-box;
+
+}
+
+.classe_campo_responde_comentario{
+	
+	margin-top: 5px;
+	margin-bottom: 0px;
+	display: none;
+	border-left-width: 1px;
+	border-left-style: solid;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_comentario{
+	
+	float: left;
+	display: block;
+	width: 35px;
+	height: 35px;
+	overflow: hidden;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_comentario img{
+	
+	float: left;
+	width: 35px;
+	min-height: 100%;
+	
+}
+
+.classe_comentario_usuario_separa_1, .classe_comentario_usuario_separa_5, .classe_comentario_usuario_separa_6{
+	
+	float: left;
+	width: 35px;
+	margin-right: 10px;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_comentario_usuario_separa_2{
+	
+	float: left;
+	width: 91%;
+	display: table;
+	
+}
+
+.classe_comentario_usuario_separa_3, .classe_comentario_usuario_separa_7, .classe_comentario_usuario_separa_8{
+	
+	float: left;
+	width: 100%;
+	display: table;	
+	
+}
+
+.classe_comentario_usuario_separa_4{
+	
+	float: left;
+	width: 85%;
+	display: table;	
+	
+}
+
+.classe_campo_comentario{
+	
+	float: left;
+	display: table;
+	margin-right: 5px;
+	cursor: pointer;
+	padding: 5px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+.classe_campo_comentario_separa_1{
+	
+	float: left;
+	margin-right: 5px;
+	
+}
+
+.classe_campo_comentario_separa_2{
+	
+	float: left;
+
+}
+
+.classe_entrada_campo_comentario{
+	
+	float: left;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    min-height: 25px;
+    background-color: #ffffff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    outline: none;
+    display: block;	
+	box-sizing: border-box;
+
+}
+
+.classe_entrada_campo_comentario img{
+	
+	max-width: 100%;
+	height: auto;
+	
+}
+
+.classe_comentario_usuario_conteudo_padrao img{
+	
+	max-width: 128px;
+	height: auto;
+
+}
+
+.classe_comentario_usuario_separa_7{
+	
+	width: 89%;
+	
+}
+
+.classe_oculta_campo_comentario{
+	
+	display: none;
+	
+}
+
+.classe_comentario_usuario_separa_8{
+
+	width: 82%;
+	
+}
+
+.classe_responde_comentario_mobile{
+	
+	position: absolute;
+	right: 0px;
+	top: 40px;
+	display: table;
+	
+}

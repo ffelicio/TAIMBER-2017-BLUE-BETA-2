@@ -1,0 +1,63 @@
+
+.classe_campo_alterar_url_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_campo_entrada_url_amigavel, .classe_campo_verificar_url_amigavel, .classe_campo_entrada_url_amigavel_separa{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 3px;
+	word-break: break-all;
+	
+}
+
+.classe_campo_entrada_url_amigavel_separa input[type="text"]{
+	
+	width: 100%;
+	margin: 0px;
+	
+}
+
+.classe_campo_verificar_url_amigavel{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_entrada_url_amigavel_separa:empty{
+	
+	display: none;
+	
+}
+
+.classe_mensagem_salvar_url_amigavel{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_mensagem_salvar_url_amigavel_1, .classe_mensagem_salvar_url_amigavel_2{
+	
+	float: left;
+	margin-right: 7px;
+	display: table;
+	margin-bottom: 3px;
+	
+}
+
+.classe_mensagem_salvar_url_amigavel_2{
+	
+	margin-right: 0px;
+	width: 100%;
+	word-break: break-all;
+	
+}

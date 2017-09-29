@@ -1,0 +1,21 @@
+1° - Para instalar baixe o Xampp
+2° - Abra o arquivo: servidor/configuracoes_servidor.php
+3° - Altere as linhas:
+
+define("USUARIO_MYSQL", "root");
+define("SENHA_MYSQL", "");
+define("SERVIDOR_MYSQL", "localhost");
+define("NOME_BANCO_DADOS", "taimber_azul");
+
+4° - Abra o arquivo: localhost/administrador.php.
+5° - Defina o nome do desenvolvedor, ou adicione os e-mails dos administradores:
+
+$nome_desenvolvedor = "Salomão Francisco da Silva";
+$administradores_sistema[0] = "admin1@taimber.com";
+$administradores_sistema[1] = "admin2@taimber.com";
+
+6° - Abra o navegador e digite: http://localhost/instalar e aguarde que ele será instalado, faça isto duas vezes para a completa instalação do banco de dados.
+7° - Crie as contas na rede social com os e-mails informados no arquivo localhost/administrador.php.
+8° - Fim!
+
+Em caso de dúvida entre em contato comigo, é só abrir o arquivo nesta pasta chamado contato.txt

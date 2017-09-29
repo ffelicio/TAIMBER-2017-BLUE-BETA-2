@@ -1,0 +1,28 @@
+.classe_mensagem_conteudo_indisponivel{
+	
+	float: left;
+	width: 100%;
+	padding: 10px;
+	display: table;
+	table-layout: fixed;
+	background-color: #ffffff;
+	box-sizing: border-box;
+
+}
+
+.classe_mensagem_conteudo_indisponivel_img{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+
+.classe_mensagem_conteudo_indisponivel_div{
+	
+	float: left;
+	width: 100%;
+	font-family: "OpenSans-Bold";
+	margin-bottom: 3px;
+	
+}

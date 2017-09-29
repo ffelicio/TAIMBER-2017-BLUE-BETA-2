@@ -1,0 +1,58 @@
+.classe_campo_abrir_emoticons{
+
+    float: left;
+    width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_abrir_emoticons img{
+
+    cursor: pointer;
+
+}
+
+.classe_visualizador_emoticons{
+
+    float: left;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+	
+}
+
+.classe_visualizador_emoticons_lista{
+
+    float: left;
+    width: 100%;
+    height: 225px;
+    overflow-y: scroll;
+    margin-bottom: 3px;
+    
+}
+
+.classe_emoticon_lista{
+
+    float: left;
+    width: 28px;
+    height: 28px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+
+}
+
+.classe_emoticon_lista img{
+
+	float: left;
+    width: 100%;
+    height: 100%;
+	
+}
+
+.classe_emoticon_convertido{
+
+	position: relative;
+	top: 5px;
+	
+}

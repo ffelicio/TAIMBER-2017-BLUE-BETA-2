@@ -1,0 +1,41 @@
+.classe_campo_ativar_usuario{
+
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	display: table;
+
+}
+
+.classe_mensagem_ativar_conta_usuario, .classe_mensagem_ativar_conta_usuario_link{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 8px;
+	
+}
+
+.classe_mensagem_ativar_conta_usuario_link{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_reenviar_ativador_usuario{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	display: table;
+	
+}
+
+.classe_campo_conta_ativada{
+	
+	float: left;
+	margin-right: 5px;
+	margin-top: 3px;
+	
+}

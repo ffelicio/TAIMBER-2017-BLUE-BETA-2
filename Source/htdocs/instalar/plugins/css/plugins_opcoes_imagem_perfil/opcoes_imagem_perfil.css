@@ -1,0 +1,48 @@
+.classe_opcoes_imagem_perfil{
+	
+	float: none;
+	display: table;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+
+.classe_opcoes_imagem_perfil_separa{
+	
+	float: right;
+	display: table;
+	
+}
+
+.classe_campo_reposicionar_imagem_perfil, .classe_campo_excluir_imagem_perfil, .classe_campo_editar_perfil, .campo_editar_imagem_perfil_upload{
+	
+	float: left;
+	width: 32%;
+	display: table;
+	margin-bottom: 8px;
+	margin-left: 1%;
+	
+}
+
+.campo_editar_imagem_perfil_upload{
+
+	float: left;	
+	width: auto;
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_excluir_imagem_perfil img{
+	
+	cursor: pointer;
+	
+}
+
+.classe_campo_reposicionar_imagem_perfil div, .classe_campo_excluir_imagem_perfil div, .classe_campo_editar_perfil div{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}

@@ -1,0 +1,63 @@
+.classe_campo_redimensionar_imagem, .classe_campo_redimensionar_imagem_conteudo, .classe_campo_redimensionar_imagem_opcoes{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_redimensionar_imagem{
+	
+	position: relative;
+	
+}
+
+.opcao_campo_redimensionar_imagem_opcoes_imagem{
+	
+	float: left;
+	margin-right: 8px;
+	cursor: pointer;
+	
+}
+
+.opcao_campo_redimensionar_imagem_opcoes_descreve{
+	
+	float: left;
+	color: #ffffff;
+	cursor: pointer;
+
+}
+
+.opcao_campo_redimensionar_imagem_opcoes_descreve *{
+	
+	color: #ffffff;	
+	
+}
+
+.classe_campo_redimensionar_imagem_opcoes{
+	
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	top: 0px;
+	opacity: 0;
+	
+}
+
+.classe_painel_recortar_imagem, .classe_painel_recortar_imagem_imagem, .classe_painel_recortar_imagem_formulario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_painel_recortar_imagem_imagem{
+	
+	margin-bottom: 5px;
+	
+}

@@ -1,0 +1,65 @@
+.classe_div_perfil_ultra_basico{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	position: relative;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_opcoes_perfil_inicial{
+	
+	float: left;
+	width: 100%;
+	table-layout: fixed;
+	padding-bottom: 5px;
+	display: table;
+	margin-top: 5px;
+	
+}
+
+.classe_nome_topo_perfil_basico_usuario{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 3px;
+	font-size: 18px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_nome_topo_perfil_basico_usuario_nome{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	text-align: center;
+
+}
+
+.classe_nome_topo_perfil_basico_usuario_nome_separa{
+	
+	font-size: 16px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_nome_topo_perfil_basico_usuario_apelido{
+	
+	float: left;
+	font-size: 28px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_div_perfil_ultra_basico_sub_topo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}

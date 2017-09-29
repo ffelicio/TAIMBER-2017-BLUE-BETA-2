@@ -1,0 +1,69 @@
+.div_janela_principal_mensagem_dialogo_grande{
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999999;
+    display: none;
+    text-align: left;
+    overflow: auto;
+    background: rgba(0, 0, 0, 0.9);
+	max-height: 100%;
+	overflow: hidden;
+	
+}
+
+.div_janela_mensagem_dialogo_grande{
+    
+	width: 1000px;
+    display: block;
+	height: 100%;
+	overflow: hidden;
+	margin: auto;
+    margin-top: 2%;
+	
+}
+
+.div_janela_mensagem_dialogo_grande_titulo{
+
+    float: left;
+	width: 100%;
+	margin-bottom: 5px;
+    font-family: "OpenSans-Bold";
+	text-align: left;
+	display: table;
+	table-layout: fixed;
+	color: #ffffff;
+	
+}
+
+.div_janela_mensagem_conteudo_grande{
+
+    float: left;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+    display: table;
+	table-layout: fixed;
+	background-color: #000000;
+	
+}
+
+.span_botao_fechar_mensagem_dialogo_grande{
+
+    float: right;
+	cursor: pointer;
+
+}
+
+@media(min-width: 1280px){
+
+.div_janela_mensagem_dialogo_grande{
+
+	width: 1270px;
+	
+}	
+
+}

@@ -1,0 +1,16 @@
+.classe_div_mensagem_sistema{
+
+    float: left;
+    width: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 5px;
+    padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #ffefe9;
+	font-size: 12px;
+	box-sizing: border-box !important;
+	border: 1px solid #f2ab99;
+	border-radius: 3px;
+
+}

@@ -1,0 +1,246 @@
+
+.classe_abrir_chat_usuario{
+	
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	display: table;
+	height: 95px;
+	padding: 6px;
+	border-bottom-width: 1px !important;
+	cursor: pointer;
+	z-index: 9999999;
+	border-radius: 3px;
+	
+}
+
+.classe_abrir_chat_usuario_perfil, .classe_abrir_chat_usuario_online{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_abrir_chat_usuario_perfil{
+
+	padding: 4px;
+	border-radius: 10px;
+
+}
+
+.classe_abrir_chat_usuario_online{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_abrir_chat_usuario_online span{
+	
+	float: left;
+	width: 100%;
+	text-align: center;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_chat_usuario{
+	
+	position: fixed;
+	bottom: 0px;
+	right: 15px;
+	width: 200px;
+	height: 380px;
+	background-color: #ffffff;
+	z-index: 9999999;
+	display: block;
+	
+}
+
+.classe_chat_usuario_topo{
+	
+	float: left;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	margin-bottom: 2px;
+	cursor: pointer;
+	
+}
+
+.classe_chat_usuario_topo span{
+
+	color: #ffffff;
+	font-size: 12px;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_chat_usuario_usuarios{
+	
+	float: left;
+	width: 96%;
+	margin-left: 2%;
+	margin-right: 2%;
+	height: 300px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	overflow-y: scroll;
+	overflow-x: none;
+	background-color: #ffffff;
+	
+}
+
+.classe_chat_pesquisa_amigos{
+	
+	float: left;
+    width: 96%;
+    height: 50px;
+	padding-left: 2%;
+	padding-right: 2%;
+
+}
+
+.classe_chat_pesquisa_amigos input[type='text']{
+	
+	width: 100%;
+	
+}
+
+.classe_imagem_online_offline_chat{
+	
+	float: none;
+	position: absolute;
+	left: 0px;
+	top: 25px;
+	width: 16px;
+	height: 16px;
+	display: table;
+
+}
+
+.classe_imagem_online_offline_chat img{
+	
+	float: left;
+	width: 16px;
+	height: 16px;
+	
+}
+
+.classe_janela_usuarios_abertos_chat{
+	
+	position: fixed;
+	right: 220px;
+	bottom: 0px;
+    width: 125px;
+    height: 425px;
+    display: none;
+	table-layout: fixed;
+	background-color: #ffffff;
+	border-width: 1px;
+	border-style: solid;
+	z-index: 9999999;
+	
+}
+
+.classe_janela_usuarios_abertos_chat_topo{
+	
+    float: left;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 3px;
+	cursor: pointer;
+	color: #ffffff;
+	font-size: 12px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_janela_usuarios_abertos_chat_topo span{
+
+	color: #ffffff;
+	font-size: 12px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_janela_usuarios_abertos_chat_usuarios{
+	
+	float: left;
+	width: 99%;
+	height: 380px;
+	display: block;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	
+}
+
+.classe_numero_novas_mensagens_chat{
+
+	float: none;
+	background-color: #e33232;
+	color: #ffffff;
+	min-width: 16px;
+	height: 14px;
+	text-align: center;
+	border-radius: 20px;
+	padding-bottom: 4px;
+	position: absolute;
+	top: 8px;
+	right: 5px;
+	border-width: 1px;
+	border-color: #e01919;
+	border-style: solid;
+	
+}
+
+.classe_numero_novas_mensagens_chat:empty{
+	
+	display: none;
+	
+}
+
+.classe_usuarios_abertos_chat{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+	cursor: pointer;
+
+}
+
+.classe_usuarios_abertos_chat:hover{
+	
+	background-color: #f8fbfd;	
+	
+}
+
+.classe_div_separa_amigo_visualizar_perfil_chat{
+
+    float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	cursor: pointer;
+	
+}
+
+.classe_div_separa_amigo_visualizar_perfil_chat:hover{
+	
+	background-color: #f8fbfd;
+	
+}

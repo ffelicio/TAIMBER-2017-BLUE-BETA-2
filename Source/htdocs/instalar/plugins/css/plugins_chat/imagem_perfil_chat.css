@@ -1,0 +1,56 @@
+.classe_div_imagem_perfil_miniatura_div_img_chat{
+	
+	float: left;
+	width: 35px;
+	height: 35px;
+	margin-right: 6px;
+	overflow: hidden;
+	border-radius: 50%;
+
+}
+
+.classe_div_imagem_perfil_miniatura_div_img_chat img{
+
+    float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_chat{
+	
+	float: left;
+	width: 115px;
+	margin-top: 8px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: capitalize;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_chat{
+	
+	float: left;
+	width: 100%;
+	height: auto;
+	position: relative;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_chat_troca_mensagens{
+	
+	float: left;
+	width: 127px;
+	margin-top: 12px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_chat_troca_mensagens a{
+	
+	text-transform: capitalize;
+	
+}

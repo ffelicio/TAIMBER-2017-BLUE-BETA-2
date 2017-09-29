@@ -1,0 +1,149 @@
+.classe_player_musica{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 3px;
+	margin-bottom: 3px;
+
+}
+
+.classe_div_campo_upload_musica{
+	
+	float: left;
+	width: 78%;
+	padding-left: 11%;
+	padding-right: 11%;
+	display: table;
+
+}
+
+.classe_visualizador_musicas_perfil_basico{
+	
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_visualizador_musicas_perfil_basico_titulo{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 3px;
+	cursor: pointer;
+
+}
+
+.classe_visualizador_musicas_perfil_basico_conteudo{
+	
+	float: left;
+	width: 100%;
+	display: table;	
+	
+}
+
+.classe_visualizador_musicas_perfil_basico_add_span{
+	
+	float: right;
+	cursor: pointer;
+	
+}
+
+.classe_campo_musicas_usuario{
+	
+	float: left;
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+	max-height: 325px;
+	overflow-y: scroll;
+	margin-top: 3px;
+	margin-bottom: 7px;
+	
+}
+
+.classe_campo_musicas_usuario_paginar{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	text-align: center;
+	height: 20px;
+	padding-top: 5px;
+	font-family: "OpenSans-Bold";
+	cursor: pointer;
+	
+}
+
+.separa_opcao_player_musica{
+	
+	float: left;
+	display: block;
+	margin-right: 1.5%;
+	width: 9%;
+	
+}
+
+.separa_opcao_player_musica_pergunta, .separa_opcao_player_musica_resposta{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	
+}
+
+.separa_opcao_player_musica_resposta{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_titulo_recomendar_musica{
+	
+    float: left;
+    width: 100%;
+    cursor: pointer;
+    padding-top: 8px;
+
+}
+
+.classe_titulo_recomendar_musica a{
+	
+	font-family: "OpenSans-Bold";	
+	
+}
+
+.separa_opcao_player_musica_titulo{
+	
+	float: left;
+	display: block;
+	width: 89.5%;
+	
+}
+
+.classe_conteudo_recomendar_musica, .classe_conteudo_recomendar_musica_2{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	
+}
+
+.classe_conteudo_recomendar_musica_2{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_visualizador_musicas_perfil_basico_topo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 2px;
+
+}
+

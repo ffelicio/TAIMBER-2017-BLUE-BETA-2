@@ -1,0 +1,96 @@
+
+.classe_formulario_relacionamento{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	padding-top: 10px;
+	
+}
+
+.classe_separa_usuario_aceita_relacionamento, .classe_separa_usuario_aceita_relacionamento_separa{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	position: relative;
+	
+}
+
+.classe_separa_usuario_aceita_relacionamento_separa{
+	
+	margin-top: 5px;
+	margin-bottom: 0px;
+	
+}
+
+.classe_separa_usuario_aceita_relacionamento_separa_botao, .classe_separa_usuario_aceita_relacionamento_separa_span, .classe_separa_usuario_aceita_relacionamento_separa_span_2{
+	
+	float: left;
+	display: table;
+	margin-right: 8px;
+
+}
+
+.classe_separa_usuario_aceita_relacionamento_separa_span{
+	
+	margin: 0px;
+	position: absolute;
+	left: 50px;
+	top: -19px;
+	
+}
+
+.classe_separa_usuario_aceita_relacionamento_separa_span_2{
+
+	margin-top: 7px;
+	
+}
+
+.classe_relacionamento_usuario, .classe_relacionamento_usuario_titiulo, .classe_relacionamento_usuario_perfil{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	
+}
+
+.classe_relacionamento_usuario_titiulo{
+	
+	margin-bottom: 5px;
+	font-family: "OpenSans-Bold";
+    margin-bottom: 3px;
+	
+}
+
+.classe_relacionamento_usuario_perfil{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_atencao_relacionamento{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_atencao_relacionamento_imagem, .classe_atencao_relacionamento_texto{
+	
+	float: left;
+	display: table;
+	font-family: "OpenSans-Bold";
+	font-size: 13px !important;
+	
+}
+
+.classe_atencao_relacionamento_imagem{
+	
+	margin-right: 5px;
+	margin-top: 1px;
+	
+}

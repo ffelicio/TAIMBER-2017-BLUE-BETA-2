@@ -1,0 +1,33 @@
+.classe_campo_curtir{
+	
+	float: left;
+	display: table;
+	margin-right: 5px;
+	cursor: pointer;
+	
+}
+
+.classe_campo_curtir_separa{
+	
+    float: left;
+	display: table;
+    table-layout: fixed;
+	padding: 5px;
+	padding-bottom: 3px;
+	padding-left: 10px;
+	padding-right: 10px;
+	
+}
+
+.classe_campo_curtir_separa_span_1{
+	
+	float: left;
+	margin-right: 5px;
+	
+}
+
+.classe_campo_curtir_separa_span_2{
+	
+	float: left;
+	
+}

@@ -1,0 +1,41 @@
+input[type="text"], textarea, select, input[type="password"], campo_data_formulario, input[type="email"]{
+
+    height: 35px;
+	padding: 2px;
+	padding-left: 6px;
+	padding-right: 6px;
+	max-width: 100%;
+	margin-top: 5px;
+	margin-bottom: 7px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #d3d9de;
+	background-color: #ffffff;
+	box-sizing: border-box !important;
+ 	font-size: 13px;
+	
+}
+
+textarea{
+	
+	min-height: 80px;
+	
+}
+
+select{
+	
+	border-width: 1px;
+
+}
+
+li{
+	
+	list-style-type: square;
+
+}
+
+img[src=""]{
+	
+   display: none;
+   
+}

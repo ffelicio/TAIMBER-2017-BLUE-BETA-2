@@ -1,0 +1,77 @@
+.classe_mensagem_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 12px;
+	padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.classe_mensagem_usuario_perfil, .classe_mensagem_usuario_mensagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;	
+
+}
+
+.classe_mensagem_usuario_mensagem, .classe_mensagem_usuario_data{
+
+	width: 90%;
+	margin-left: 10%;
+
+}
+
+.classe_opcoes_mensagem{
+	
+	float: right;
+	width: 4%;
+
+}
+
+.classe_opcao_gerencia_mensagem, .classe_separa_opcao_gerencia_mensagem, .classe_separa_opcao_gerencia_mensagem_botao{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 12px;
+	
+}
+
+.classe_mensagem_usuario_data{
+	
+    font-size: 11px;
+	
+}
+
+.classe_mensagem_usuario_separador{
+	
+	float: left;
+	width: 94%;	
+	padding-left: 1%;
+	padding-right: 1%;
+	cursor: pointer;
+	
+}
+
+.classe_mensagem_usuario_mensagem{
+	
+	margin-top: -15px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_mensagem_usuario_mensagem img{
+	
+	max-width: 100%;
+	
+}
+
+.classe_separa_opcao_gerencia_mensagem_botao{
+	
+	margin-bottom: 0px;
+	
+}

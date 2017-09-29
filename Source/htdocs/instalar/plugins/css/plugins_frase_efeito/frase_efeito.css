@@ -1,0 +1,68 @@
+
+.classe_campo_frase_efeito, .classe_campo_frase_efeito_entrada, .classe_campo_frase_efeito_frase, .classe_campo_frase_efeito_editar{
+
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_frase_efeito_entrada_separa_1{
+	
+	float: left;
+	width: 72%;
+	margin-right: 2%;
+	display: table;
+
+}
+
+.classe_campo_frase_efeito_entrada_separa_2{
+	
+	float: left;
+	width: 26%;
+	display: table;
+	margin-top: 7px;
+	position: relative;
+	
+}
+
+.classe_campo_frase_efeito_entrada_separa_progresso{
+	
+	float: none;
+	left: 0px;
+	position: absolute;
+	top: 3px;
+	
+}
+
+.classe_campo_frase_efeito_entrada_separa_1 input[type="text"]{
+	
+	float: left;
+	width: 100%;
+
+}
+
+.classe_campo_frase_efeito_frase{
+	
+	margin: 0px;
+	color: #272727;
+	
+}
+
+.classe_campo_frase_efeito_entrada{
+	
+	display: none;
+	
+}
+
+.classe_campo_frase_efeito_editar{
+	
+	margin-bottom: 2px;
+	
+}
+
+.classe_campo_frase_efeito{
+
+	margin-bottom: 10px;
+	
+}

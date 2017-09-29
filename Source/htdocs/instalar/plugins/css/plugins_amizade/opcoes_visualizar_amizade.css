@@ -1,0 +1,62 @@
+.classe_div_opcoes_visualizador_amigos{
+
+    float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 12px;
+	padding-bottom: 3px;
+	
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_1{
+
+    float: left;
+	width: 94%;
+	margin-right: 2%;
+    display: table;
+	
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_1 input[type="text"]{
+
+    float: left;
+	width: 80%;
+	margin: 0px;
+
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_2{
+
+    float: left;
+	width: 100%;
+    display: table;
+	margin-top: 8px;
+	
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_3{
+	
+	float: left;
+	width: 4%;
+	display: table;
+	margin-top: 7px;
+
+}
+
+.classe_opcoes_parametros_pesquisa_amigos, .classe_opcoes_parametros_pesquisa_amigos_titulo{
+	
+    float: left;
+	width: 100%;
+    display: table;
+	
+}
+
+.classe_opcoes_parametros_pesquisa_amigos_titulo{
+	
+	font-family: "OpenSans-Bold";
+	width: 96%;
+	margin-bottom: 5px;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}

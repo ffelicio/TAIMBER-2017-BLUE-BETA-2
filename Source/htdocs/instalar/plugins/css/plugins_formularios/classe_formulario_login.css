@@ -1,0 +1,56 @@
+.classe_formulario_login{
+	
+	background-color: #ffffff;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_formulario_login_div, .span_descreve_formulario_login{
+
+    float: left;
+	width: 100%;
+	display: table;
+    margin-bottom: 5px;
+	
+}
+
+.span_descreve_formulario_login{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_formulario_login_div_mensagem{
+	
+	float: left;
+	width: 100%;	
+	display: table;
+	
+}
+
+.classe_formulario_login_botao{
+	
+	float: left;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	
+}
+
+.classe_formulario_login_titulo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 8px;
+	font-size: 18px;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_formulario_login_div input[type='email'], .classe_formulario_login_div input[type='password']{
+	
+	width: 100%;
+	
+}

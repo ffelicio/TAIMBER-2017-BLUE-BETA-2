@@ -1,0 +1,58 @@
+.classe_campo_plano_fundo, .classe_gerencia_plano_fundo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_gerencia_plano_fundo{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_gerencia_plano_fundo_separa, .classe_opcao_gerenciar_plano_fundo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_opcao_gerenciar_plano_fundo{
+	
+	width: auto;
+	margin-right: 10px;
+	cursor: pointer;
+	margin-left: -3px;
+	
+}
+
+.classe_imagem_apresenta_plano_fundo{
+	
+	float: left;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	max-height: 250px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_mensagem_dialogo_remover_plano_fundo_texto, .classe_mensagem_dialogo_remover_plano_fundo_botao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	
+}
+
+.classe_mensagem_dialogo_remover_plano_fundo_botao{
+	
+	margin-bottom: 0px;
+	
+}

@@ -1,0 +1,172 @@
+
+.classe_depoimentos_usuario_perfil{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_depoimentos_perfil_basico, .classe_depoimentos_perfil_basico_titulo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_depoimentos_perfil_basico_titulo{
+
+	margin-bottom: 5px;
+
+}
+
+.classe_depoimentos_perfil_basico_escreve, .classe_depoimentos_perfil_basico_mensagem{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	display: table;
+	
+}
+
+.classe_depoimentos_perfil_basico_mensagem:empty{
+	
+    display: none;
+	
+}
+
+.classe_depoimentos_perfil_basico_escreve textarea{
+
+	float: left;
+	width: 100%;
+	height: 55px;
+	margin: 0px;
+	
+}
+
+.classe_depoimentos_perfil_basico_envia{
+	
+	float: left;
+	width: 100%;
+
+}
+
+.classe_visualiza_depoimentos_usuario_lista_depoimentos{
+	
+    float: left;
+    width: 100%;
+	margin-bottom: 5px;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_visualiza_depoimentos_usuario_modo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+    margin-bottom: 5px;
+	
+}
+
+.classe_visualiza_depoimentos_usuario_modo span{
+	
+	float: left;
+	width: 100%;
+    margin-bottom: 3px;
+	cursor: pointer;
+
+}
+
+.classe_depoimento_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	
+}
+
+.classe_depoimento_usuario_perfil{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.classe_depoimento_usuario_texto{
+	
+	float: left;
+	width: 89.7%;
+	margin-left: 10.3%;
+	margin-bottom: 10px;
+	word-break: break-all;
+	margin-top: -12px;
+	
+}
+
+.classe_depoimento_usuario_data{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	text-align: right;
+	
+}
+
+.classe_campo_opcao_depoimento{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-top: 2px;
+
+}
+
+.classe_campo_opcao_depoimento_titulo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+
+}
+
+.classe_campo_opcao_depoimento_botao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_opcao_depoimento_botao input[type="button"]{
+	
+	margin-right: 5px;
+	
+}
+
+.classe_depoimentos_perfil_basico_separador{
+	
+	float: left;
+	margin-right: 8px;
+	padding-top: 4px;
+	
+}
+
+.classe_depoimentos_perfil_basico_escreve{
+	
+	margin-bottom: 10px;
+	
+}

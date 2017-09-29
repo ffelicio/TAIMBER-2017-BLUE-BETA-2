@@ -1,0 +1,25 @@
+.classe_informa_modo_mobile_topo{
+
+	float: left;
+	width: 100%;
+	display: table;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+.classe_informa_modo_mobile_topo_imagem{
+	
+	float: left;
+	display: table;
+	margin-right: 5px;
+	margin-left: 2%;
+	
+}
+
+.classe_informa_modo_mobile_topo_imagem_texto{
+	
+	float: left;
+	font-size: 12px;
+	
+}

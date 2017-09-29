@@ -1,0 +1,63 @@
+
+.classe_campo_recupera_senha, .classe_campo_recupera_senha_campos, .classe_campo_recupera_senha_campos_mensagem{
+
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_recupera_senha_campos_mensagem{
+	
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_recupera_senha_campos_mensagem:empty{
+	
+	display: none;
+	
+}
+
+.classe_campo_recupera_senha_link{
+	
+	float:left;
+	margin-top: 12px;
+	
+}
+
+.classe_campo_recupera_senha_campos_separa_1, .classe_campo_recupera_senha_campos_separa_2, .classe_campo_recupera_senha_campos_descreve{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_recupera_senha_campos_separa_1{
+	
+	margin-bottom: 10px;
+	width: 70%;
+	padding-right: 30%;
+	
+}
+
+.classe_campo_recupera_senha_campos_separa_2{
+	
+	margin-bottom: 0px;
+
+}
+
+.classe_campo_recupera_senha_campos_separa_1 input[type="email"]{
+	
+	margin: 0px;
+	width: 100%;
+	
+}
+
+.classe_campo_recupera_senha_campos_descreve{
+	
+	margin-bottom: 15px;
+
+}

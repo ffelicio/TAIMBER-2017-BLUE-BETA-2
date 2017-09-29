@@ -1,0 +1,53 @@
+.classe_div_conteudo_3, .classe_div_conteudo_4{
+
+	background: rgba(0,0,0,0.7);
+	padding-left: 5px;
+	padding-right: 5px;
+
+}
+
+.classe_div_topo{
+
+	background: rgba(0,0,0,0.7);
+	border-bottom-width: 0px;
+	
+}
+	
+.classe_link_atalho_navegacao_lateral *, .classe_campo_desenvolvedor_separa_conteudo *, .classe_campo_altera_idioma_topo{
+	
+	color: #ffffff !important;
+	
+}
+
+.conteudo_aba_horizontal_posts{
+	
+	background-color: transparent !important;
+	
+}
+
+.classe_div_publicacao{
+	
+	border-width: 0px !important;
+	border-bottom-width: 1px !important;
+	border-radius: 0px;
+	
+}
+
+.classe_links_navegacao_lateral, .classe_campo_desenvolvedor_2{
+	
+	border-bottom-width: 0px;
+	margin-bottom: 0px;
+	
+}
+
+.classe_div_imagem_perfil_topo_nome{
+	
+	color: #ffffff;
+	
+}
+
+.classe_div_conteudo_1, .classe_div_conteudo_2, .classe_div_conteudo_3, .classe_div_conteudo_4, .classe_div_conteudo_5, .classe_div_conteudo_6, .classe_div_conteudo_7{
+
+	border-width: 0px;
+	
+}

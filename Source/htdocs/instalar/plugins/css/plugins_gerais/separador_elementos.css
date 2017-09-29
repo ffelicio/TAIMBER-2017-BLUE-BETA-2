@@ -1,0 +1,19 @@
+.classe_separa_elemento_1, .classe_separa_elemento_2{
+
+    float: left;
+	width: 100%;
+	margin-bottom: 5px;
+
+}
+
+.classe_separa_elemento_2{
+
+	margin-bottom: 2px;
+	
+}
+
+.classe_separa_elemento_1 a, .classe_separa_elemento_2 a{
+	
+	margin-left: 3px;
+
+}

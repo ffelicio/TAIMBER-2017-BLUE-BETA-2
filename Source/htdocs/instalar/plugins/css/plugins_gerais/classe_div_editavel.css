@@ -1,0 +1,36 @@
+
+.classe_padrao_div_editavel{
+
+    float: left;
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+    min-height: 50px;
+    background-color: #ffffff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    outline: none;
+    display: block;
+	box-sizing: border-box !important;
+	
+}
+
+.classe_padrao_div_editavel img, .classe_padrao_div_editavel_imagem img{
+	
+	max-width: 84px !important;
+	height: auto !important;
+	
+}
+
+[contenteditable][placeholder]:empty:before {
+	
+	content: attr(placeholder);
+	color: #b3b3b3;
+  
+}
+
+[contenteditable] br{
+	
+	display: none;
+
+}

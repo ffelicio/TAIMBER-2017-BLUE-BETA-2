@@ -1,0 +1,34 @@
+
+.classe_nome_usuario_pagina_topo_meio{
+	
+	float: left;
+	width: 40%;
+	font-family: "OpenSans-Bold";
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-transform: capitalize;
+	font-size: 15px;
+	
+}
+
+.classe_visualizado_pagina_topo_meio{
+	
+	float: right;
+	display: table;
+	font-size: 11px;
+	
+}
+
+.classe_visualizado_pagina_topo_meio img{
+	
+	float: left;
+	margin-top: 1px;
+	
+}
+
+.classe_visualizado_pagina_topo_meio span{
+	
+	float: left;
+
+}

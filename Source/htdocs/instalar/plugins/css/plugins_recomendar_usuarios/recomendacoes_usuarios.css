@@ -1,0 +1,44 @@
+
+.classe_recomendacoes_novos_amigos{
+	
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_usuarios_recomendar_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	
+}
+
+.classe_separa_usuario_recomendado{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 8px;
+	
+}
+
+.classe_paginar_recomendacoes_usuarios{
+	
+	float: left;
+	display: table;
+	width: 100%;
+	padding-top: 8px;
+	
+}
+
+.classe_paginar_recomendacoes_usuarios_separa{
+	
+	float: left;
+	display: table;
+	cursor: pointer;
+	margin-right: 5px;
+	
+}

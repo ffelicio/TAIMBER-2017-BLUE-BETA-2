@@ -1,0 +1,90 @@
+.classe_div_capa_usuario{
+	
+	float: left;
+	width: 100%;
+	height: 375px;
+	position: relative;
+	margin-bottom: 15px;
+	
+}
+
+.classe_div_capa_usuario img{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_div_capa_usuario_campo_upload{
+    
+	float: left;
+	width: 200px;
+	display: table;
+	margin-left: 1.5%;
+	
+}
+
+.classe_div_capa_usuario_upload{
+	
+	float: none;
+	width: 100%;
+	display: table;
+	position: absolute;
+	padding: 10px;
+	box-sizing: border-box;
+
+}
+
+.classe_div_capa_usuario_imagem{
+	
+	float: left;
+	width: 100%;
+	display: block;
+	height: 100%;
+	overflow: hidden;
+	
+}
+
+.classe_div_opcoes_capa{
+	
+	float: right;
+	width: auto;
+	display: table;
+	background: rgba(0,0,0,0.7);
+	padding: 5px;
+	border-radius: 5px
+	
+}
+
+.classe_campo_reposicionar_capa{
+	
+	position: absolute;
+	top: 50px;
+	width: 42px;
+	height: 45px;
+	background: rgba(0,0,0,0.7);
+	border-radius: 5px;
+	
+}
+
+.classe_campo_reposicionar_capa:hover, .classe_div_opcoes_capa:hover{
+	
+	background: rgba(0,0,0,1);
+	
+}
+
+.classe_campo_reposicionar_capa_opcao_1{
+	
+	position: absolute;
+	left: 13px;
+	top: 0px;
+	
+}
+
+.classe_campo_reposicionar_capa_opcao_2{
+	
+	position: absolute;
+	left: 13px;
+	bottom: 0px;
+	
+}

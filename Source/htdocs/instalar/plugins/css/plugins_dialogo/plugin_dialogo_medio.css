@@ -1,0 +1,65 @@
+.div_janela_principal_mensagem_dialogo_medio{
+
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999999;
+    display: none;
+    text-align: left;
+    overflow: auto;
+    background: rgba(0, 0, 0, 0.4);
+	
+}
+
+.div_janela_mensagem_dialogo_medio{
+    
+	width: 450px;
+    display: table;
+	table-layout: fixed;
+	margin: auto;
+    margin-top: 17%;
+    margin-bottom: 20%;
+	box-shadow: 0 2px 8px 0 rgba(0, 0, 0, .20);
+    box-sizing: border-box;
+
+}
+
+.div_janela_mensagem_dialogo_titulo_medio, .div_janela_mensagem_conteudo_medio{
+	
+	float: left;
+	display: table;
+	table-layout: fixed;
+	width: 100%;
+	padding: 23px;
+	box-sizing: border-box;	
+	background-color: #ffffff;
+	
+}
+
+.div_janela_mensagem_dialogo_titulo_medio{
+
+	padding-bottom: 8px;
+	font-size: 14px;
+	font-family: "OpenSans-Bold";
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+
+}
+
+.div_janela_mensagem_conteudo_medio{
+
+	padding-top: 16px;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+
+}
+
+.span_botao_fechar_mensagem_dialogo_medio{
+
+    float: right;
+	margin-left: 5px;
+	cursor: pointer;
+
+}

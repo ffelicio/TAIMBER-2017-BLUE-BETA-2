@@ -1,0 +1,61 @@
+
+.div_janela_mensagem_dialogo_acao{
+    
+	width: 275px;
+	display: none;
+	table-layout: fixed;
+	margin: auto;
+    margin-top: 20%;
+    margin-bottom: 20%;
+	color: #ffffff;
+	z-index: 999999;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 20px;
+    border-radius: 6px;
+    background: rgba(0, 0, 0, 0.8);
+	
+}
+
+.div_janela_mensagem_dialogo_acao_fechar{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	
+}
+
+.div_janela_mensagem_dialogo_acao_fechar span{
+	
+	float: right;
+	color: #ffffff;
+	cursor: pointer;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 14px;
+
+}
+
+.div_janela_titulo_dialogo_acao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	font-size: 14px;
+	font-family: "OpenSans-Bold";
+	color: #ffffff;
+	margin-bottom: 8px;
+	
+}
+
+.div_janela_conteudo_dialogo_acao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}

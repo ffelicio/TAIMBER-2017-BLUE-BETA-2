@@ -1,0 +1,53 @@
+.classe_campo_selecionador_amizade{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	padding-bottom: 5px;
+	margin-bottom: 20px;
+
+}
+
+.classe_campo_selecionador_amizade_titulo, .classe_campo_selecionador_amizade_conteudo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_selecionador_amizade_titulo{
+
+    font-family: "OpenSans-Bold";
+	margin-bottom: 3px;
+	
+}
+
+.classe_campo_selecionador_amizade_conteudo select{
+
+	min-width: 200px;
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_selecionador_amizade_conteudo_separa_1, .classe_campo_selecionador_amizade_conteudo_separa_2, .classe_campo_selecionador_amizade_conteudo_separa_3{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_selecionador_amizade_conteudo_separa_2{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_selecionador_amizade_conteudo_separa_3{
+
+	margin-top: 0px;
+	margin-bottom: 10px;
+	
+}

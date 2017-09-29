@@ -1,0 +1,128 @@
+.classe_div_campo_adicionar_amizade, .classe_div_campo_adicionar_amizade_2, .classe_div_campo_adicionar_amizade_campo_add, .classe_div_campo_adicionar_amizade_campo_add_2{
+
+    float: left;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.classe_div_campo_adicionar_amizade_campo_add, .classe_div_campo_adicionar_amizade_campo_add_2{
+
+    cursor: pointer;
+	color: #d9534f;
+	
+}
+
+.classe_div_campo_adicionar_amizade_campo_add_2{
+	
+	text-align: left;
+	
+}
+
+.classe_div_campo_adicionar_amizade_campo_add_1{
+	
+	float: left;
+	width: 100%;
+	text-align: left;
+
+}
+
+.classe_div_visualizador_amigos_perfil{
+
+    float: left;
+	width: 100%;
+	display: table;
+	position: relative;
+	
+}
+
+.classe_div_visualizador_amigos_perfil_online{
+	
+    float: right;
+	width: 46%;
+	padding-left: 2%;
+	padding-right: 2%;
+	height: 17px;
+	cursor: pointer;
+	font-size: 12px;
+	
+	display: table;
+	table-layout: fixed;
+	text-align: right;
+	
+}
+
+.classe_div_visualizador_amigos_perfil_titulo{
+
+	float: left;
+    width: 96%;
+    cursor: pointer;
+    margin-bottom: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 5px;
+	
+}
+
+.classe_div_visualizador_amigos_perfil_titulo a{
+
+    font-family: "OpenSans-Bold";
+	
+}
+
+.classe_div_visualizador_amigos_perfil_amigos{
+
+    float: left;
+	width: 96%;
+	display: table;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+
+.classe_div_separa_amigo_visualizar_perfil{
+
+    float: left;
+	width: 32.3%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+	
+}
+
+.classe_div_separa_amigo_medio_visualizar_perfil{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	padding-bottom: 8px;
+	
+}
+
+.classe_campo_add_amizade_perfil_medio{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 3px;
+	margin-bottom: 2px;
+
+}
+
+.classe_div_campo_adicionar_amizade_campo_add_2 span, .classe_div_campo_adicionar_amizade_campo_add span{
+	
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	text-align: center;
+	
+}
+
+.classe_div_campo_adicionar_amizade_2 span{
+	
+	width: auto;
+	
+}

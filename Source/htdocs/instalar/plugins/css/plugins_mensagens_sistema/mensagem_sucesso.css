@@ -1,0 +1,16 @@
+.classe_div_mensagem_sistema_sucesso{
+
+    float: left;
+    width: 100%;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-bottom: 5px;
+    padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: #effaed;
+	font-size: 12px;
+	box-sizing: border-box !important;
+	border: 1px solid #afd4a9;
+	border-radius: 3px;
+	
+}

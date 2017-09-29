@@ -1,0 +1,195 @@
+.classe_player_video{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 3px;
+	margin-bottom: 3px;
+
+}
+
+.classe_div_campo_upload_video{
+	
+	float: left;
+	width: 78%;
+	padding-left: 11%;
+	padding-right: 11%;
+	display: table;
+
+}
+
+.classe_visualizador_videos_perfil_basico{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 20px;
+	
+}
+
+.classe_visualizador_videos_perfil_basico_titulo{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	cursor: pointer;
+	margin-bottom: 5px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_visualizador_videos_perfil_basico_titulo *{
+	
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_visualizador_videos_perfil_basico_conteudo, .classe_visualizador_videos_perfil_basico_add{
+	
+	float: left;
+	width: 100%;
+	display: table;	
+	
+}
+
+.classe_visualizador_videos_perfil_basico_add{
+	
+	padding-top: 2px;
+	padding-bottom: 5px;
+	font-size: 22px;
+	text-align: center;
+	margin-bottom: 10px;
+	
+}
+
+.classe_visualizador_videos_perfil_basico_add_span{
+	
+	float: right;
+	cursor: pointer;
+	
+}
+
+.classe_campo_videos_usuario{
+	
+	float: left;
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+	max-height: 325px;
+	overflow-y: scroll;
+	margin-top: 3px;
+	margin-bottom: 7px;
+	
+}
+
+.classe_campo_videos_usuario_paginar{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	text-align: center;
+	height: 20px;
+	padding-top: 5px;
+	font-family: "OpenSans-Bold";
+	cursor: pointer;
+	
+}
+
+.classe_separa_player_media_player{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 2px;
+	
+}
+
+.classe_separa_player_media_player{
+	
+	margin-bottom: 0px;
+	
+}
+
+.separa_opcao_player_video{
+	
+	float: left;
+	display: block;
+	margin-right: 1.5%;
+	width: 9%;
+	
+}
+
+.separa_opcao_player_video_pergunta, .separa_opcao_player_video_resposta{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	
+}
+
+.separa_opcao_player_video_resposta{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_numero_videos_perfil_usuario{
+	
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	
+}
+
+.classe_videos_miniatura_perfil_usuario{
+
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_videos_miniatura_perfil_usuario_videos{
+
+	float: left;
+	width: 100%;
+	display: table;	
+	
+}
+
+.classe_numero_videos_perfil_usuario *{
+	
+	font-family: "OpenSans-Bold";
+	
+}
+
+.separa_opcao_player_video_titulo{
+
+	float: left;
+	display: block;
+	width: 89.5%;
+	
+}
+
+.classe_numero_videos_perfil_usuario_topo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 2px;
+	
+}
+
+.classe_visualizador_video_perfil_basico_titulo{
+	
+	float: left;
+    width: 100%;
+	margin-bottom: 3px;
+    cursor: pointer;
+	
+}

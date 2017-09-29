@@ -1,0 +1,103 @@
+.classe_div_imagem_perfil_amigo{
+
+	float: left;
+	width: 100%;
+	height: auto;
+	margin-bottom: 4px;
+	
+}
+
+.classe_div_imagem_perfil_amigo_imagem_2{
+	
+	float: none;
+	width: 55px;
+	height: 55px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_div_imagem_perfil_amigo_imagem_2 img{
+	
+	float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_div_imagem_perfil_amigo_imagem{
+	
+	float: none;
+	width: 45px;
+	height: 45px;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_div_imagem_perfil_amigo_imagem img{
+	
+	float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_div_imagem_perfil_amigo_nome, .classe_div_imagem_perfil_amigo_nome_completo{
+	
+	float: left;
+	width: 100%;
+	display: block;
+	text-transform: capitalize;
+	text-align: center;
+	margin-top: 3px;
+	word-wrap: break-word;
+	height: 18px;
+	overflow: hidden;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_div_imagem_perfil_topo{
+	
+	float: left;
+	display: table;
+	
+}
+
+.classe_div_imagem_perfil_imagem_topo{
+	
+	float: left;
+	width: 30px;
+	height: 30px;
+	display: block;
+	overflow: hidden;
+	
+}
+
+.classe_div_imagem_perfil_imagem_topo img{
+	
+	float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_div_imagem_perfil_topo_nome{
+	
+	float: left;
+	margin-left: 6px;
+	margin-top: 6px;
+	font-size: 12px;
+    font-family: "OpenSans-Bold";
+	color: #ffffff;
+	
+}
+
+.classe_div_imagem_perfil_amigo_nome_completo{
+	
+	height: 35px;
+	
+}

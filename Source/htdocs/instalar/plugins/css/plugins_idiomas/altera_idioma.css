@@ -1,0 +1,24 @@
+
+.classe_campo_altera_idioma{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 15px;
+	
+}
+
+.classe_campo_altera_idioma_conteudo{
+	
+	float: left;
+	display: table;
+	width: 100%;
+	
+}
+
+.classe_opcao_idioma{
+	
+	float: left;
+	margin-right: 8px;
+	
+}

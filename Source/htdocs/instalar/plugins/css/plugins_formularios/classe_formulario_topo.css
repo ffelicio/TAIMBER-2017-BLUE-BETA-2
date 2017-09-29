@@ -1,0 +1,57 @@
+.classe_formulario_topo_login{
+
+	float: right;
+	width: 380px;
+	display: table;
+	position: relative;
+	
+}
+
+.classe_formulario_topo_login_div{
+
+    float: left;
+	width: 140px;
+	margin-right: 10px;
+	margin-top: 5px;
+	background-color: red;
+	
+}
+
+.classe_formulario_topo_login_div  input[type="email"], .classe_formulario_topo_login_div  input[type="password"]{
+	
+	height: 26px;
+	border-width: 0px;
+	margin: 0px;
+	
+}
+
+.classe_formulario_topo_login_div_mensagem{
+	
+	float: left;
+	width: 100%;	
+	display: table;
+	
+}
+
+.classe_formulario_topo_login_botao{
+	
+	float: left;
+	margin-top: 8px;
+	
+}
+
+.classe_formulario_topo_login_botao span{
+	
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_barra_progresso_formulario_login_topo{
+	
+	position: absolute;
+	top: 5px;
+	right: 90px;
+	display: block;
+	display: none;
+
+}

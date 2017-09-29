@@ -1,0 +1,47 @@
+.classe_caixa_descritiva, .classe_caixa_descritiva_titulo, .classe_caixa_descritiva_conteudo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_caixa_descritiva_titulo{
+
+	margin-bottom: 3px;
+	font-family: "OpenSans-Bold";
+	padding-bottom: 3px;
+	
+}
+
+.classe_caixa_descritiva_conteudo{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_caixa_descritiva_imagem{
+	
+	float: left;
+	display: table;
+	width: 128px;
+	margin-top: 5px;
+	
+}
+
+.classe_caixa_descritiva_imagem img{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_caixa_descritiva_conteudo_imagem{
+	
+	float: left;
+	display: table;
+	margin-top: 5px;
+	margin-left: 5px;
+	
+}

@@ -1,0 +1,166 @@
+.classe_campo_notifica{
+
+	float: left;
+	margin-right: 18px;
+	margin-left: 10px;
+	margin-top: 3px;
+	position: relative;
+	
+}
+
+.classe_campo_notifica_imagem{
+	
+	float: left;
+	margin-top: 2px;
+	
+}
+
+.classe_campo_notifica_numero, .classe_campo_notifica_numero_2{
+
+	position: absolute;
+	left: 26px;
+	top: 3px;
+	height: 5px;
+	padding-left: 3px;
+	padding-right: 3px;
+	font-size: 12px;
+	color: #ffefec;
+
+	background-color: #FF6347;
+    border-width: 1px;
+	border-color: #ffd0c7;
+	border-style: solid;
+	display: table;
+	border-radius: 2px;
+	
+}
+
+.classe_campo_notifica_numero a, .classe_campo_notifica_numero_2 a{
+	
+	color: #ffefec;
+	
+}
+
+.classe_campo_notifica_numero_2{
+	
+	background-color: #ff19b1;
+	
+}
+
+.classe_span_opcao_notifica{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 5px;
+	
+}
+
+.classe_span_opcao_notifica a{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_exibe_notificacoes_usuario{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	display: table;
+	table-layout: fixed;	
+	background-color: #ffffff;
+	border-radius: 3px;
+	
+}
+
+.classe_lista_notifica_usuario, .classe_exibe_notificacoes_usuario_progresso{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 10px;
+	
+}
+
+.classe_exibe_notificacoes_usuario_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_exibe_notificacoes_usuario_usuario_imagem, .classe_exibe_notificacoes_usuario_usuario_texto, .classe_campo_notificacao, .classe_campo_notificacao_texto{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+	position: relative;
+	
+}
+
+.classe_exibe_notificacoes_usuario_usuario_texto{
+	
+	margin-bottom: 0px;
+	width: 100%;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_campo_notificacao_imagem, .classe_campo_notificacao_texto{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_notificacao_imagem img{
+	
+	float: left;
+	max-width: 100%;
+	
+}
+
+.classe_campo_notificacao{
+
+	margin-bottom: 25px;
+	
+}
+
+.classe_campo_notificacao_texto_separa{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_notifica_numero:empty, .classe_campo_notifica_numero_2:empty{
+	
+	display: none;
+
+}
+
+.classe_campo_notificacao_data{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 4px;
+	
+}

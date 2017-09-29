@@ -1,0 +1,31 @@
+.classe_campo_bloquear_usuario, .classe_campo_desbloquear_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_campo_bloquear_usuario span{
+	
+	float: left;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.classe_campo_texto_bloquear, .classe_campo_botao_bloquear{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 7px;
+	
+}
+
+.classe_campo_botao_bloquear{
+	
+	margin-bottom: 0px;
+	
+}

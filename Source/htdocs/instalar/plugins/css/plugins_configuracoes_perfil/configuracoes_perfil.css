@@ -1,0 +1,113 @@
+.classe_opcoes_configuracoes_perfil{
+	
+    float: left;
+    width: 40%;
+	display: table;
+	table-layout: fixed;
+    border-right-style: solid;
+	border-right-width: 1px;
+	
+}
+
+.classe_opcoes_configuracoes_perfil a{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.classe_conteudo_configuracoes_perfil, .classe_opcoes_solicitacoes_amizade{
+	
+    right: right;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+    width: 58%;
+	display: table;
+	table-layout: fixed;
+    margin-left: 0.7%;
+	
+}
+
+.classe_conteudo_configuracoes_perfil{
+	
+	padding-bottom: 5px;
+	
+}
+
+.classe_div_opcao_configuracao_selecionada, .classe_div_opcao_configuracao_padrao{
+	
+    float: left;
+    width: 100%;
+	margin-bottom: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	
+}
+
+.classe_opcoes_solicitacoes_amizade select{
+	
+	width: 125px;
+	
+}
+
+.classe_opcoes_solicitacoes_amizade_titulo{
+	
+	float: left;
+    width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	margin-bottom: 5px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_opcoes_solicitacoes_amizade_campo_opcoes{
+	
+	float: left;
+    width: 100%;
+	
+}
+
+.classe_campo_alterar_email{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_alterar_email_campo_1, .classe_campo_alterar_email_campo_2, .classe_campo_alterar_email_mensagem{
+
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;	
+	
+}
+
+.classe_campo_alterar_email_campo_2{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_alterar_email_campo_1 input[type="text"]{
+	
+	margin: 0px;
+	width: 100%;
+	
+}
+
+.classe_campo_alterar_email_mensagem{
+	
+	margin-bottom: 10px;
+	
+}
+
+.classe_campo_alterar_email_mensagem:empty{
+	
+	display: none;
+	
+}

@@ -1,0 +1,45 @@
+.classe_div_imagem_perfil_miniatura_div_img_pesquisa{
+	
+	float: left;
+	width: 45px;
+	height: 45px;
+	margin-right: 6px;
+	overflow: hidden;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_img_pesquisa img{
+
+    float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_pesquisa{
+	
+	float: left;
+	width: 153px;
+	margin-top: 8px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	text-transform: capitalize;
+	font-weight: normal;
+
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_pesquisa a{
+	
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_div_imagem_perfil_miniatura_pesquisa{
+	
+	float: left;
+	width: 100%;
+	height: auto;
+	position: relative;
+	
+}

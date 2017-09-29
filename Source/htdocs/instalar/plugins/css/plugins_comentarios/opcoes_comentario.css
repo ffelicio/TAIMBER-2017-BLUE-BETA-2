@@ -1,0 +1,15 @@
+.classe_opcoes_comentario{
+	
+	float: left;
+	display: table;
+	width: 100%;
+	margin-bottom: 2px;
+	
+}
+
+.classe_opcoes_comentario_separa{
+	
+	float: right;
+	display: table;
+
+}

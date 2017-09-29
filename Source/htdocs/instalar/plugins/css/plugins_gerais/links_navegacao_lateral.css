@@ -1,0 +1,15 @@
+.classe_links_navegacao_lateral, .classe_link_atalho_navegacao_lateral{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+
+}
+
+.classe_links_navegacao_lateral{
+	
+	margin-bottom: 15px;
+	padding-bottom: 4px;
+	
+}

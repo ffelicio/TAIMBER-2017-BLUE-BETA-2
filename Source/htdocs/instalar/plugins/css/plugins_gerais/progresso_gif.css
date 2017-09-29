@@ -1,0 +1,11 @@
+.classe_campo_progresso_gif{
+
+    float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	display: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}

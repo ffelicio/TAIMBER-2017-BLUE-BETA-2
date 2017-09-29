@@ -1,0 +1,43 @@
+.classe_encurta_texto{
+
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_encurta_texto_parte{
+
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_encurta_texto_exibe_mais{
+
+	float: left;
+	width: 100%;
+	display: table;	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_encurta_texto_original{
+
+	float: left;
+	width: 100%;
+	display: none;
+	
+}
+
+.classe_encurta_texto_exibe_menos{
+	
+	float: left;
+	width: 100%;
+	display: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}

@@ -1,0 +1,38 @@
+.classe_div_mapa{
+
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_div_mapa iframe{
+	
+	float: left;
+	width: 100%;
+	height: 300px;
+	border-width: 0px;
+	padding-top: 10px;
+	
+}
+
+.classe_mapa_bing{
+	
+	float: none;
+	width: 98%;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_mapa_bing iframe{
+	
+	float: none;
+	width: 100%;
+	height: 400px;
+	border-width: 0px;
+
+}

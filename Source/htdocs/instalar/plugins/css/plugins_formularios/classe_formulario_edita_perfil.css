@@ -1,0 +1,56 @@
+.classe_separa_campo_formulario_edita_perfil{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 8px;
+	
+}
+
+.classe_separa_campo_formulario_edita_perfil *{
+    
+	float: left;
+	width: 300px;
+	margin-left: 1%;
+	margin-right: 1%;
+
+}
+
+.classe_separa_campo_formulario_edita_perfil select{
+
+	width: 150px;
+	
+}
+
+.classe_separa_campo_formulario_edita_perfil span{
+	
+	width: 98%;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_div_salvar_formulario_ed_perfil{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 5px;
+	
+}
+
+.classe_div_campos_formulario_ed_perfil{
+	
+	float: left;
+	width: 100%;
+	padding-top: 10px;
+
+}
+
+.classe_div_titulo_formulario_ed_perfil{
+	
+	float: left;
+	width: 100%;
+	font-family: "OpenSans-Bold";
+	
+}

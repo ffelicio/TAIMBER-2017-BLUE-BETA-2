@@ -1,0 +1,96 @@
+
+.classe_separa_player_perfil{
+	
+	float: left;
+	width: 32.3%;
+	display: table;
+	margin-bottom: 4px;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	
+}
+
+.classe_separa_player_media{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-top: 5px;
+	margin-bottom: 5px;
+
+}
+
+.classe_separa_player_media_player{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_separa_player_media_player video{
+
+	width: 100%;
+	
+}
+
+.classe_playlist_usuario{
+	
+	float: left;
+	width: 100%;
+	display: block;
+	margin-bottom: 3px;
+	min-height: 250px;
+	
+}
+
+.classe_separa_player_media_opcoes{
+	
+	right: 0px;
+	top: 0px;
+	display: table;
+	position: absolute;
+	
+}
+
+.classe_separa_player_musica, .classe_separa_player_video{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 20px;
+
+}
+
+.classe_separa_player_musica_player, .classe_separa_player_video_player{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_gerenciar_midia_player{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	position: relative;
+
+}
+
+.classe_link_abrir_media, .classe_link_abrir_media_2{
+	
+	float: left;
+	width: 95%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+
+.classe_link_abrir_media_2{
+	
+	width: 100%;
+
+}

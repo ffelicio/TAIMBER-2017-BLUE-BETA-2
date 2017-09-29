@@ -1,0 +1,194 @@
+
+.classe_div_visualizador_album_abrir_visualizador{
+
+	float: left;
+	width: 100%;
+	text-align: left;
+	
+}
+
+.classe_div_imagens_album{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_div_imagens_album_div_imagem{
+	
+	float: left;
+	width: 19%;
+	height: 80px;
+	display: block;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	margin-bottom: 5px;
+    overflow: hidden;
+	
+}
+
+.classe_div_imagens_album_div_imagem_2{
+	
+	float: left;
+	width: 24%;
+	height: 128px;
+	display: block;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	margin-bottom: 5px;
+    overflow: hidden;
+	background-color: #000000;
+	
+}
+
+.classe_div_imagens_album_div_imagem_3{
+	
+	float: left;
+	width: 32.3%;
+	height: 130px;
+	display: block;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	margin-bottom: 5px;
+    overflow: hidden;
+	
+}
+
+.classe_div_imagem_grande_album_visualizar{
+	
+	float: left;
+	width: 100%;
+	max-height: 520px;
+    text-align: center;
+	display: block;
+	overflow-y: hidden;
+	margin-bottom: 5px;
+	position: relative;
+	
+}
+
+.classe_imagem_album_usuario{
+	
+	float: none;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	max-height: 520px;
+	width: auto;
+	height: auto;
+	
+}
+
+.classe_div_campo_gerenciar_imagem_album{
+	
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	
+}
+
+.classe_data_album_imagem{
+	
+	float: none;
+	display: table;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	text-align: center;
+	
+}
+
+.classe_div_campo_gerenciar_imagem_album_div{
+	
+	float: right;
+	display: table;
+	margin-right: 1%;
+	
+}
+
+.classe_campo_upload_imagem_album_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_imagem_album_visualizar_imagem{
+	
+	float: left;
+	width: 634px;
+	display: block;
+
+}
+
+.classe_imagem_album_visualizar_social, .classe_imagem_album_visualizar_social_indisponivel{
+	
+	float: left;
+	width: 356px;
+	display: block;
+	background-color: #ffffff;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_imagem_album_visualizar_social_indisponivel{
+	
+	background-color: transparent;
+	
+}
+
+.classe_imagem_album_visualizar_social_indisponivel_texto{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 15px;
+	text-align: center;
+	color: #ffffff;
+	
+}
+
+.classe_imagem_album_visualizar_social_indisponivel_imagem{
+	
+	float: left;
+	width: 100%;
+
+}
+
+.classe_imagem_album_visualizar_social_indisponivel_imagem div{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_perfil_usuario_dono_imagem_album{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	padding-bottom: 3px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+
+}
+
+@media(min-width: 1280px){
+	
+.classe_imagem_album_visualizar_imagem{
+
+	width: 900px;
+
+}	
+	
+}

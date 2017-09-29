@@ -1,0 +1,66 @@
+.classe_div_formulario_progresso_publicacao{
+
+    float: left;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    
+}
+
+.classe_div_formulario_progresso_publicacao input[type="file"]{
+
+    display: none;
+
+}
+
+.classe_exibe_barra_progresso_formulario_publicacao{
+
+    float: left;
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: none;
+	
+}
+
+.classe_barra_progresso_formulario_span_publicacao{
+
+    float: left;
+    margin-right: 5px;
+	background-color: #5e81a8;
+	border-radius: 75px;
+	width: 35px;
+	padding: 1px;
+	color: #ffffff;
+	text-align: center;
+	font-size: 11px;
+	margin-top: 1px;
+	
+}
+
+.classe_div_botao_upload_formulario_progresso_publicacao{
+
+    float: left;
+    width: 100%;
+    display: table;
+
+}
+
+.classe_div_botao_upload_formulario_progresso_publicacao div{
+	
+	cursor: pointer;
+	float: left;
+	margin-right: 5px;
+	
+}
+
+.classe_div_exibe_imagens_upload_publicacao{
+	
+	float: left;
+    width: 100%;
+    display: table;
+	table-layout: fixed;
+	padding-top: 2px;
+	margin-top: 3px;
+
+}

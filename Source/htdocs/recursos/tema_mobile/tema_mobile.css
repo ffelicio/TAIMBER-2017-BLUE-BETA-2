@@ -1,0 +1,1877 @@
+
+*{
+	
+	font-size: 12px !important;
+	
+}
+
+body, html{
+	
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	max-width: 100%;
+	min-width: 320px;
+	padding: 0px;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+body, html, .classe_div_principal{
+
+	max-width: 640px;
+	
+}
+
+.classe_div_conteudo_1, .classe_div_conteudo_3, .classe_div_conteudo_4{
+	
+	display: none;
+	
+}
+
+.classe_div_conteudo_6, .classe_div_conteudo_2{
+	
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	border-width: 0px;
+
+}
+
+.classe_div_conteudo_2{
+	
+	min-height: 485px;
+	
+}
+
+.classe_conteudo_topo_meio{
+	
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	position: relative;
+	left: 0px;
+	
+}
+
+.classe_div_conteudo_5{
+
+	display: none;
+	
+}
+
+.classe_formulario_login{
+
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_formulario_cadastro{
+	
+	width: 100%;
+	padding: 0px;
+	
+}
+
+.classe_formulario_login{
+	
+	padding-bottom: 30px;
+	
+}
+
+.classe_formulario_cadastro_campo_termo{
+	
+	margin-bottom: 15px;
+	
+}
+
+.classe_cor_8{
+	
+	border-width: 0px !important;
+	border-radius: 0px !important;
+
+}
+
+.classe_formulario_cadastro_campo input[type="password"]{
+	
+	width: 50%;
+	
+}
+
+.classe_links_navegacao_atalhos{
+	
+	max-height: 320px;
+	overflow-y: scroll;
+	display: block;
+	margin-bottom: 3px;
+	
+}
+
+.classe_links_navegacao_atalhos a{
+
+	font-size: 13px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	width: 94%;
+	padding-left: 3%;
+	padding-right: 3%;
+	margin: 0px;
+
+}
+
+.classe_div_imagem_perfil_grande{
+	
+	width: 180px;
+	max-height: 380px;
+	padding: 0px;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 0px;
+	
+}
+
+.classe_div_campo_pesquisa{
+	
+	margin: 0px;
+
+}
+
+.classe_div_nome_perfil_grande{
+	
+	display: none;
+	
+}
+
+.classe_nome_usuario_pagina_topo_meio{
+
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+.classe_campo_meio_publicacao{
+	
+	width: 100%;
+	margin-left: 0px;
+	float: left;
+	position: relative;
+	margin-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_opcoes_visualizador_resultados_pesquisa_3 input[type="text"]{
+	
+	float: left;
+	padding-left: 2%;
+	padding-right: 2%;
+	width: 96%;
+	margin: 0px;
+	
+}
+
+.classe_div_principal{
+
+	width: 100%;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	
+}
+
+.classe_div_opcoes_visualizador_resultados_pesquisa_1, .classe_div_opcoes_visualizador_resultados_pesquisa_2, .classe_div_opcoes_visualizador_resultados_pesquisa_3{
+	
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 1%;
+	padding-right: 1%;
+	width: 98%;
+	margin: 0px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	
+}
+
+.classe_pagina_miniatura_conteudo_pesquisa{
+	
+	width: 78%;
+	
+}
+
+.classe_add_conteudo_campos_separa_div_1, .classe_add_conteudo_campos_separa_div_2{
+	
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 5px;
+
+}
+
+.classe_add_conteudo_campos_separa_div_1 input[type="text"]{
+	
+	width: 96%;
+	margin: 0px;
+	
+}
+
+.classe_add_conteudo_campos_separa_div_2{
+	
+	margin-bottom: 0px;
+	
+}
+
+.classe_campo_marcar_entrada_salvar span{
+	
+	padding: 0px;
+	margin: 0px;
+	float: left;
+	width: 48%;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-bottom: 15px;
+	text-align: center;
+
+}
+
+.classe_campo_marcar_usuario{
+
+	width: 42.7%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_1{
+	
+	float: left;
+	width: 82%;
+	margin: 0px;
+	margin-top: 7px;
+	margin-right: 12%;
+	
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_3{
+
+	width: 6%;
+	display: table;
+	margin-top: 13px;
+	
+}
+
+.classe_div_opcoes_visualizador_amigos_pesquisa_1 input[type="text"]{
+
+	width: 95%;
+	
+}
+
+.classe_div_imagens_album_div_imagem{
+	
+	margin: 0px;
+	padding: 0px;
+	width: 49%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	margin-bottom: 5px;
+	
+}
+
+.classe_div_imagens_album{
+	
+	height: 350px;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_imagens_album_titulo{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;	
+	
+}
+
+.classe_chat_usuario{
+	
+	float: left;
+	width: 96%;
+	height: auto;
+	position: relative;
+	border-width: 0px;
+	margin: 0px;
+	margin-left: 2%;
+	margin-right: 2%;
+	right: 0px;
+	z-index: 0;
+	margin-top: 12px;
+	
+}
+
+.classe_chat_pesquisa_amigos{
+	
+	margin: 0px;
+	height: auto;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-color: #ffffff;
+	
+}
+
+.classe_novo_chat_usuario_entrada{
+	
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.classe_chat_pesquisa_amigos input[type="text"]{
+	
+	margin: 0px;
+	
+}
+
+.classe_janela_troca_mensagens{
+	
+	margin: 0px;
+	right: 0px;
+	top: 50px;
+	float: left;
+	width: 99%;
+	height: auto;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	border-width: 0px;
+	top: 53px;
+	
+}
+
+.classe_novo_chat_usuario_mensagens{
+
+	height: 235px;
+
+}
+
+.classe_chat_usuario_usuarios{
+	
+	height: 300px;
+	float: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	width: 100%;
+	
+}
+
+.imagem_perfil_usuario_deslogado{
+	
+	max-width: 250px;
+	
+}
+
+.classe_campo_ativar_usuario{
+	
+	width: 98%;
+	float: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.classe_campo_frase_efeito_entrada_separa_1, .classe_campo_frase_efeito_entrada_separa_2{
+	
+	margin: 0px;
+	margin-bottom: 5px;
+	width: 100%;
+	
+}
+
+.classe_campo_frase_efeito_entrada_separa_1 input[type="text"]{
+
+	width: 96.5%;
+
+}
+
+.classe_div_campo_excluir_pagina_separa_entrada, .classe_div_campo_excluir_pagina_separa_botao{
+	
+	margin: 0px;
+	width: 100%;
+	margin-bottom: 5px;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa_botao{
+	
+	margin: 0px;
+	
+}
+
+.classe_campo_entrada_envia_mensagem_texto textarea{
+	
+	width: 96%;
+	
+}
+
+.classe_div_campo_adicionar_amizade_campo_add_1 span{
+	
+	width: 100%;
+	float: left;
+	margin-left: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_campo_adicionar_amizade_campo_add{
+	
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_perfil_basico_miniatura_campos_separa_mensagem{
+	
+	margin-top: 0px;
+	
+}
+
+.classe_div_caixa_sistema_conteudo{
+	
+	border-width: 0px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_div_campo_album_perfil_basico_imagens_separa{
+	
+	width: 19.5%;
+	margin-left: 0px;
+	margin-right: 0.5%;
+	height: 65px !important;
+	
+}
+
+.classe_div_campo_album_perfil_basico{
+	
+	margin-bottom: 10px;
+	
+}
+
+.classe_imagem_topo_apresentacao{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_apresentacao{
+	
+	margin-top: 0px;
+	
+}
+
+.classe_copyright_separa_principal{
+
+	float: none;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	box-sizing: border-box;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome, .classe_div_imagem_perfil_miniatura_div_nome_publicacao{
+	
+	max-width: 60%;
+
+}
+
+.classe_link_navegacao_atalho img{
+	
+	display: none;
+	
+}
+
+.classe_link_navegacao_atalho{
+	
+	padding: 0px;
+	
+}
+
+.classe_div_centro_pagina_raiz{
+	
+	float: left;
+	margin: 0px;
+	width: 100%;
+	border-width: 0px !important;
+	
+}
+
+.classe_formulario_cadastro_campo_botao input[type="button"]{
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 15px;
+	width: 100%;
+
+}
+
+.classe_perfil_basico_usuario{
+	
+	width: 100%;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-width: 0px;
+	background-color: #ffffff;
+	margin-bottom: 0px;
+	box-sizing: border-box !important;
+	
+}
+
+.classe_opcoes_imagem_perfil{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+
+.classe_separa_campo_formulario_edita_perfil *{
+	
+	width: 270px;
+	
+}
+
+.classe_separa_campo_formulario_edita_privacidade span{
+	
+	float: left;
+	width: 85%;
+	
+}
+
+.classe_div_campo_publicar{
+	
+	margin-bottom: 0px;
+	margin-top: 0px;
+	width: 100%;
+	padding-top: 8px;
+	padding-bottom: 4px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border-width: 0px;
+	border-radius: 0px;
+	
+}
+
+.classe_div_publicacoes_usuario_novas, .classe_div_publicacoes_usuario{
+	
+	margin-top: 5px;
+	background-color: #edeef0;
+	
+}
+
+.classe_div_topo{
+
+	float: left;
+	position: relative;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	
+}
+
+.classe_div_opcoes_visualizador_resultados_pesquisa_4{
+	
+	padding-left: 1%;
+	padding-right: 1%;
+	width: 98%;
+	
+}
+
+.balao_esquerdo{
+	
+	width: 143px;
+	
+}
+
+.imagem_convertida_url{
+	
+	max-width: 100%;
+	margin-right: 0px;
+	
+}
+
+.classe_div_conteudo_7{
+	
+	display: none;
+	
+}
+
+.classe_apresentacao{
+	
+	margin-top: 25px;
+	
+}
+
+.campo_editar_imagem_perfil_upload{
+
+	margin-left: 0px;
+	
+}
+
+.classe_separa_elemento_2{
+	
+	font-size: 15px;
+	
+}
+
+.classe_campo_envia_mensagem{
+	
+	margin-top: 8px;
+	
+}
+
+.classe_campo_envia_mensagem span{
+	
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	
+}
+
+.classe_div_abre_menu_suspense{
+	
+	margin-top: 0px;
+	
+}
+
+.classe_formulario_cadastro_titulo{
+	
+	font-size: 17px !important;
+	margin-bottom: 0px;
+	
+}
+
+.classe_formulario_cadastro_descreve{
+	
+	margin-bottom: 0px;
+	font-size: 18px !important;
+	
+}
+
+.classe_formulario_cadastro_topo{
+	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-bottom: 12px;
+	
+}
+
+.classe_div_principal_pagina_deslogada{
+
+	margin-top: 0px;
+	
+}
+
+.classe_campo_recupera_senha{
+	
+	margin: 0px;
+	padding: 0px;
+	margin-top: 5px;
+	margin-right: 4.5%;
+	float: right;
+	width: auto;
+	
+}
+
+.classe_campo_recupera_senha_campos_separa_1{
+
+	padding: 0px;
+	margin-bottom: 8px;
+	
+}
+
+.classe_campo_recupera_senha_campos_separa_1 input[type='email']{
+	
+	margin: 0px;
+	width: 93%;
+	
+}
+
+.classe_div_campo_opcoes_publicar_centro{
+
+	padding: 0px;
+	margin: 0px;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 8px;
+	padding-bottom: 8px;
+
+}
+
+.campo_imagem_perfil_campo_publicar{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_div_campo_opcoes_publicar_perfil{
+
+	width: 60px;
+
+}
+
+.classe_div_imagem_perfil_miniatura_div_comentario img{
+	
+	width: 40px;
+	min-height: 100%;
+	
+}
+
+.classe_pesquisa_musicas_div_entrada_caixa_texto, .classe_pesquisa_videos_div_entrada_caixa_texto, .classe_campo_pesquisa_mensagem_entrada{
+	
+	width: 98%;
+	margin-left: 1%;
+	margin-right: 1%;
+	
+}
+
+.classe_pesquisa_musicas_div_entrada_botao, .classe_pesquisa_videos_div_entrada_botao, .classe_campo_pesquisa_mensagem_botao{
+	
+	width: auto;
+	margin-top: 5px;
+	
+}
+
+.classe_pesquisa_musicas_entrada, .classe_pesquisa_videos_entrada, .classe_campo_pesquisa_mensagem_campos {
+	
+	padding-bottom: 6px;
+	
+}
+
+.classe_campo_pesquisa_mensagem_campos{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_publicacao_topo{
+
+	width: 93%;
+	
+}
+
+.classe_div_publicacao_topo_nome{
+	
+	display: block;
+	overflow:  hidden;
+	margin-top: 7px;
+	width: 215px;
+	
+}
+
+.classe_campo_notifica_numero, .classe_campo_notifica_numero_2{
+
+	left: 28px;
+	top: 6px;
+	
+}
+
+.classe_campo_notifica{
+	
+	margin-right: 28px;
+	
+}
+
+.classe_compartilhado{
+
+	margin-left: 2%;
+	width: 93.4% !important;
+	
+}
+
+.botao_enviar_mensagem{
+	
+	width: 100% !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	text-align: left;
+	
+}
+
+.botao_enviar_mensagem_imagem{
+	
+	margin-left: 2%;
+	margin-right: 2%;
+	width: auto;
+
+}
+
+.botao_enviar_mensagem_texto{
+	
+	width: auto;
+	
+}
+
+.classe_div_campo_adicionar_amizade{
+
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_perfil_basico_miniatura_campos_separa{
+	
+	margin-bottom: 8px;
+	margin-bottom: 1px;
+	
+}
+
+.classe_noticias_aba{
+
+	width: 94%;
+	padding-left: 3%;
+	padding-right: 3%;
+	
+}
+
+.classe_campo_excluir_pagina{
+	
+	margin-right: 2%;
+	
+}
+
+.classe_div_publicacao_texto img, .classe_div_imagens_album_div_imagem_publicacao img{
+	
+	max-width: 100%;
+	
+}
+
+.classe_perfil_basico_miniatura_campos{
+	
+	margin-left: 2%;
+	width: 68%;
+	
+}
+
+.classe_perfil_basico_miniatura_imagem_usuario{
+	
+	height: 80px;
+	width: 80px;
+
+}
+
+.classe_div_mensageiro_amigos{
+	
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	border-width: 0px;
+	padding-bottom: 25px;
+	
+}
+
+.classe_novo_chat_usuario_mensagens_mensageiro{
+	
+	height: 190px;
+	overflow-y: scroll;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_mensageiro_topo {
+	
+	width: 240px;
+
+}
+
+.classe_amigos_mensageiro{
+
+	height: 325px;
+	overflow-y: scroll;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+
+}
+
+.classe_div_rodape{
+
+	width: 100%;
+	margin: 0px;
+	position: relative;
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+.classe_perfil_usuario_dono_imagem_album {
+	
+	background-color: #ffffff;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 20px;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1, .classe_opcoes_pesquisa_pagina_usuario_separa2{
+	
+	width: 98%;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1{
+	
+	margin-bottom: 5px;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1 input[type='text']{
+	
+	width: 60%;
+	min-width: 280px;
+	margin: 0px;
+	
+}
+
+.classe_div_opcoes_visualizador_resultados_pesquisa_1 input[type="text"]{
+	
+	width: 95%;
+	margin: 0px;
+	
+}
+
+.classe_div_opcoes_visualizador_resultados_pesquisa_1, .classe_div_opcoes_visualizador_resultados_pesquisa_2, .classe_div_opcoes_visualizador_resultados_pesquisa_3, .classe_div_opcoes_visualizador_resultados_pesquisa_4, .classe_div_campo_pesquisa_geral_entrada_pesquisa_topo, .classe_div_campo_pesquisa_geral_entrada_pesquisa{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_campo_pesquisa_geral_entrada_pesquisa_topo{
+	
+	margin: 0px;
+
+}
+
+.classe_padrao_div_editavel{
+	
+	min-height: 32px;
+	
+}
+
+.classe_div_mensageiro{
+	
+	border-width: 0px;
+	padding-bottom: 0px;
+	
+}
+
+.classe_visualizador_comentarios{
+	
+	display: table;
+	min-height: auto;
+	
+}
+
+.classe_imagem_unica_album{
+	
+	width: 100%;
+	
+}
+
+.classe_zoom_imagem_album, .classe_div_campo_gerenciar_imagem_album, .classe_data_album_imagem{
+	
+	width: 98%;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.div_janela_mensagem_conteudo_grande{
+	
+	background-color: #ffffff;
+	padding-top: 0px;
+	border-radius: 0px;
+	
+}
+
+.div_janela_principal_mensagem_dialogo_grande{
+	
+	overflow-y: scroll !important;
+	max-height: 100%;
+	
+}
+
+.classe_visualizador_comentarios_scroll{
+	
+	display: table !important;
+	max-height: auto !important;
+	
+}
+
+.div_janela_mensagem_dialogo_grande{
+	
+	display: table;
+	
+}
+
+.div_janela_mensagem_dialogo_medio{
+
+	max-width: 480px;
+	width: 94%;
+	
+}
+
+.classe_nome_usuario_perfil_medio, .classe_informacoes_perfil_medio_usuario{
+	
+	width: 212px;
+	
+}
+
+.classe_descreve_lista_apps_img_perfil, .classe_descreve_lista_apps_nome_perfil{
+	
+	margin: 0px;
+	width: 96%;
+	text-align: center;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+
+.classe_descreve_lista_apps_img_perfil div{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_div_perfil_ultra_basico{
+	
+	margin: 0px;
+	float: left;
+	padding-left: 0px;
+	padding-right: 0px;
+	width: 100%;
+	border-left-width: 0px;
+	border-right-width: 0px;
+
+}
+
+.classe_perfil_basico_miniatura{
+	
+	padding-top: 8px;
+	
+}
+
+.classe_div_publicacao_data{
+
+	width: 75%;
+	left: 64px;
+	top: 26px;
+
+}
+
+.classe_div_publicacao_topo_gerencia{
+
+	display: table;
+	position: absolute;
+	top: -60px;
+	right: 0px;
+
+}
+
+.classe_div_campo_gerencia_publicacao{
+	
+	float: left;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1, .classe_opcoes_pesquisa_pagina_usuario_separa2, .classe_opcoes_pesquisa_pagina_usuario, .classe_div_mensageiro_amigos, .classe_div_centro_pagina_raiz_completa{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+}
+
+.classe_pesquisa_amigos_mensasgeiro{
+	
+	padding-top: 4px;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	text-align: left;
+
+}
+
+.classe_mensagem_usuario_mensagem{
+
+	margin-left: 53px;
+	width: 83%;
+
+}
+
+.classe_mensagem_usuario_data{
+
+	float: left;
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin-left: 53px;
+	width: 83%;
+
+}
+
+.classe_div_opcoes_visualizador_resultados_pesquisa_2 select{
+	
+	width: 80%;
+	
+}
+
+.classe_campo_editar_pagina{
+	
+	margin-top: 5px;
+	
+}
+
+.classe_novo_chat_usuario_upload_imagem_mensageiro{
+	
+	width: 50%;
+
+}
+
+.classe_div_publicacao_texto, .classe_div_publicacao_texto *{
+	
+	font-size: 14px !important;
+	
+}
+
+.classe_div_campo_comentario_campo_opcoes{
+	
+	width: auto;
+	position: absolute;
+	top: 38px;
+	left: 54px;
+	margin-top: 5px;
+	
+}
+
+.classe_comentario_usuario_separa_2{
+	
+	width: 82%
+	
+}
+
+.classe_comentario_usuario_separa_7{
+	
+	width: 78%;
+	
+}
+
+.classe_comentario_usuario_separa_4{
+	
+	width: 81%;
+	
+}
+
+.classe_comentario_usuario_separa_7{
+	
+	width: 75%;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada{
+	
+	width: 82%;
+	
+}
+
+.classe_div_publicacao{
+
+	width: 100%;
+	padding: 10px;
+	border-radius: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+.conteudo_aba_horizontal{
+	
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.classe_div_caixa_sistema_conteudo{
+
+	padding-bottom: 0px;
+	
+}
+
+.classe_pesquisa_videos, .classe_pesquisa_musicas{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	
+}
+
+.classe_novo_chat_usuario_mensageiro_topo_imagem_perfil{
+	
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;	
+	
+}
+
+.classe_novo_chat_usuario_mensageiro_topo{
+	
+	padding-top: 1px;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario{
+	
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_div_separa_amigo_visualizar_perfil_chat{
+	
+	width:100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-right: 0px;
+	
+}
+
+.classe_perfil_medio_usuario{
+
+	max-width: 310px;
+	
+}
+
+.classe_separa_player_media_opcoes{
+	
+	float: left;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	width: 100%;
+	display: block;
+	height: 16px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+
+}
+
+.classe_conteudo_padrao_deslogado{
+	
+	float: left;
+	width: 100%;
+	padding: 5px;
+	padding-left: 3%;
+	padding-right: 3%;
+	border-width: 0px;
+	
+}
+
+.classe_conteudo_centro_padrao{
+	
+	background-color: #ffffff;
+	
+}
+
+.classe_comentario_usuario_separa_8{
+
+	width: 77%;
+	
+}
+
+.classe_div_imagens_album_div_imagem_2{
+	
+	height: 75px;
+	
+}
+
+.classe_campo_criar_pagina_usuario_campo_campo input[type="text"], .classe_campo_criar_pagina_usuario_campo_campo textarea{
+	
+	width: 100%;
+	
+}
+
+.classe_campo_marcar_entrada input[type="text"]{
+	
+	width: 100%;
+	
+}
+
+.classe_opcoes_imagem_perfil_pagina{
+	
+	padding: 0px;
+	width: 100%;
+
+}
+
+.classe_opcoes_mensagem{
+	
+	margin-right: 5px;
+	
+}
+
+.classe_div_imagens_album_div_imagem_publicacao{
+	
+	margin-bottom: 2px;
+	
+}
+
+.classe_div_campo_comentario_campo_opcoes_responde{
+	
+	position: absolute;
+	top: 39px;
+	left: 0px;
+	margin-top: 5px;
+	width: auto;
+	
+}
+
+.classe_div_campo_comentario{
+	
+	margin-bottom: 28px;
+	
+}
+
+.classe_separa_item_campo_comentario{
+	
+	margin-right: 25px;
+	
+}
+
+.classe_responde_comentario_mobile{
+	
+	float: none;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	right: 0px;
+	top: 38px;
+	
+}
+
+.classe_novo_chat_usuario_emoticons_mensageiro{
+	
+	right: 110px;
+	margin-top: 4px;
+	
+}
+
+.classe_mensagem_usuario_dono_compartilhamento_span{
+
+	margin-left: 0px;
+	
+}
+
+.classe_campo_conta_ativada{
+
+	margin-top: 1px;
+	
+}
+
+.classe_campo_altera_idioma{
+	
+	margin: 0px;
+	
+}
+
+.classe_opcao_idioma{
+	
+	margin-right: 12px;
+	
+}
+
+.classe_campo_recupera_senha_link{
+	
+	margin-left: 15px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Todo código css deve ser escrito acima
+Quando algum código que depende de uma resolucao especifica
+for utilizado, então usar o media query abaixo
+*/
+
+@media(width: 320px){
+	
+.classe_separador_albuns_usuario{
+
+	width: 49%;
+	height: 140px;
+	
+}
+
+.classe_app_miniatura{
+	
+	width: 48%;
+	
+}
+
+.classe_div_imagens_album_div_imagem_3{
+	
+	height: 100px;
+	
+}
+
+.div_janela_mensagem_dialogo, .div_janela_mensagem_dialogo_acao, .div_janela_mensagem_dialogo_grande, .div_janela_mensagem_dialogo_medio{
+
+	width: 300px;
+	
+}
+
+.classe_novo_chat_usuario_emoticons_mensageiro{
+	
+	right: 100px;
+	margin-top: 4px;
+	
+}
+
+.classe_div_campo_comentario_perfil_album{
+	
+	width: 17%;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada_album, .classe_div_campo_comentario_campo_opcoes_album{
+	
+	width: 81%;
+	
+}
+
+.classe_novo_chat_usuario_mensagens_mensageiro{
+	
+	height: 220px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media(width: 480px){
+
+.classe_div_campo_album_perfil_basico_imagens_separa{
+	
+	height: 90px !important;
+	
+}
+
+.classe_novo_chat_usuario_mensagens_mensageiro{
+	
+	height: 380px;
+	
+}
+
+.classe_amigos_mensageiro{
+
+	height: 775px;
+	
+}
+
+.classe_div_publicacao_data{
+	
+	left: 63px;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada{
+	
+	width: 88%;
+	
+}
+
+.classe_comentario_usuario_separa_2{
+	
+	width: 89%;
+
+}
+
+.classe_comentario_usuario_separa_7{
+	
+	width: 87%;
+	
+}
+
+.classe_div_imagens_album_div_imagem_2{
+
+	height: 100px;
+	
+}
+
+.classe_novo_chat_usuario_emoticons_mensageiro{
+	
+	right: 105px;
+	margin-top: 4px;
+	
+}
+
+.div_janela_mensagem_dialogo, .div_janela_mensagem_dialogo_acao, .div_janela_mensagem_dialogo_grande, .div_janela_mensagem_dialogo_medio{
+
+	width: 460px;
+	
+}
+
+.classe_div_campo_comentario_perfil_album{
+	
+	width: 11%;
+	
+}
+
+
+.classe_div_campo_comentario_campo_entrada_album, .classe_div_campo_comentario_campo_opcoes_album{
+	
+	width: 87.5%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+@media(width: 640px){
+
+.classe_div_campo_album_perfil_basico_imagens_separa{
+	
+	height: 115px !important;
+	
+}
+
+.classe_novo_chat_usuario_mensagens_mensageiro{
+	
+	height: 655px;
+	
+}
+
+.classe_amigos_mensageiro{
+
+	height: 775px;
+	
+}
+
+.classe_div_publicacao_data{
+	
+	left: 63px;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada{
+	
+	width: 91%;
+	
+}
+
+.classe_comentario_usuario_separa_2{
+	
+	width: 92%;
+
+}
+
+.classe_comentario_usuario_separa_7{
+	
+	width: 90%;
+
+}
+
+.classe_div_imagens_album_div_imagem_2{
+
+	height: 120px;
+	
+}
+
+.div_janela_mensagem_dialogo, .div_janela_mensagem_dialogo_acao, .div_janela_mensagem_dialogo_grande, .div_janela_mensagem_dialogo_medio{
+
+	width: 620px;
+	
+}
+
+
+.classe_div_campo_comentario_perfil_album{
+	
+	width: 8%;
+	
+}
+
+
+.classe_div_campo_comentario_campo_entrada_album, .classe_div_campo_comentario_campo_opcoes_album{
+	
+	width: 90.5%;
+	
+}
+
+.classe_novo_chat_usuario_mensagens_mensageiro{
+	
+	height: 540px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media(min-width: 800px){
+
+.classe_div_campo_album_perfil_basico_imagens_separa{
+	
+	height: 105px !important;
+	
+}
+
+.classe_comentario_usuario_separa_7{
+
+	width: 90%;
+	
+}
+
+.classe_comentario_usuario_separa_2{
+
+	width: 92%;
+
+}
+
+.classe_div_publicacao_data{
+
+	margin-left: 0px;
+	top: 27px;
+	width: 86%;
+
+}
+
+.classe_mensagem_usuario_mensagem, .classe_mensagem_usuario_data{
+
+	margin-left: 9%;
+	width: 91%;
+	
+}
+
+.classe_div_campo_comentario_campo_entrada{
+
+	width: 91%;
+	
+}
+
+.classe_div_imagens_album_div_imagem_2{
+
+	height: 128px;
+	
+}
+
+.div_janela_mensagem_dialogo, .div_janela_mensagem_dialogo_acao, .div_janela_mensagem_dialogo_grande, .div_janela_mensagem_dialogo_medio{
+
+	width: 780px;
+	
+}
+
+.classe_div_campo_comentario_perfil_album{
+	
+	width: 6.5%;
+	
+}
+
+
+.classe_div_campo_comentario_campo_entrada_album, .classe_div_campo_comentario_campo_opcoes_album{
+	
+	width: 92.5%;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+

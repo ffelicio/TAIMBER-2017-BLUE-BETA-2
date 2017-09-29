@@ -1,0 +1,22 @@
+.classe_link_perfil_amigavel, .classe_link_perfil_amigavel_2{
+	
+	float: left;
+	width: auto;
+	display: table;
+	position: relative;
+	margin-right: 4px;
+	
+}
+
+.classe_link_perfil_amigavel_2{
+	
+	margin-right: 0px;
+	
+}
+
+.classe_link_perfil_amigavel_span{
+	
+	float: left;
+	display: table;
+
+}

@@ -1,0 +1,46 @@
+.classe_div_perfil_completo_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_div_perfil_completo_usuario_separa{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	
+}
+
+.classe_div_perfil_completo_usuario_descricao{
+	
+	float: left;
+	width: auto;
+	margin-right: 5px;
+	width: 31%;
+	margin-right: 1%;
+	text-align: right;
+	font-family: "OpenSans-Bold";
+	text-transform:capitalize;
+
+}
+
+.classe_div_perfil_completo_usuario_valor{
+	
+	float: left;
+	width: 68%;
+	
+}
+
+.classe_div_perfil_completo_usuario_visualizar_completo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	text-align: center;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	
+}

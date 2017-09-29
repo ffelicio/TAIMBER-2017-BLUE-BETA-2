@@ -1,0 +1,693 @@
+.classe_paginas_perfil_basico, .classe_construir_pagina_perfil, .classe_campo_visualizar_paginas_perfil, .classe_pagina_miniatura, .classe_pagina_miniatura_criada, .classe_paginas_criadas_usuario_lista{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_campo_visualizar_paginas_perfil{
+	
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+
+.classe_pagina_miniatura_criada{
+	
+	width: 100%;
+	display: table;
+	margin-bottom: 25px;
+	
+}
+
+.classe_paginas_perfil_basico_titulo{
+	
+	float: left;
+	width: 96%;
+	cursor: pointer;
+	margin-bottom: 5px;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 3px;
+	margin-bottom: 10px;
+	
+}
+
+.classe_paginas_perfil_basico_titulo a{
+	
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_construir_pagina_perfil_campo_0{
+	
+	float: left;
+	width: 92%;
+	margin-left: 4%;
+	margin-right: 4%;
+	text-align: center;
+	padding-top: 4px;
+	padding-bottom: 6px;
+	border-radius: 3px;
+	
+}
+
+.classe_campo_criar_pagina_usuario, .classe_campo_criar_pagina_usuario_campo, .classe_campo_criar_pagina_usuario_campo_campo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	background-color: #ffffff;
+	
+}
+
+.classe_campo_criar_pagina_usuario_campo{
+	
+	margin-bottom: 7px;
+	
+}
+
+.classe_campo_criar_pagina_usuario_campo_titulo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 1px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_campo_criar_pagina_usuario_campo_campo input[type="text"]{
+	
+	float: left;
+	width: 80%;
+	
+}
+
+.classe_campo_criar_pagina_usuario_campo_campo textarea{
+	
+	float: left;
+	width: 100%;
+	min-height: 150px;
+	
+}
+
+.classe_pagina_miniatura{
+	
+	margin-bottom: 10px;
+	
+}
+
+.classe_pagina_miniatura_sugestao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 8px;
+	
+}
+
+.classe_pagina_miniatura_imagem{
+	
+    float: left;
+    width: 45px;
+	height: 45px;
+    overflow: hidden;	
+	
+}
+
+.classe_pagina_miniatura_imagem img{
+	
+	float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_pagina_miniatura_imagem_sugestao{
+	
+	float: left;
+	width: 45px;
+	height: 45px;
+	overflow: hidden;
+	margin-right: 8px;
+	
+}
+
+.classe_pagina_miniatura_imagem_sugestao img{
+	
+	float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_pagina_miniatura_titulo{
+	
+    float: left;
+    width: 100%;
+    display: block;
+    margin-left: 6px;
+    word-wrap: break-word;
+	box-sizing: border-box;
+
+}
+
+.classe_pagina_miniatura_campo_inscrever{
+	
+	float: left;
+	width: 177px;
+	margin-top: -4px;
+	
+}
+
+.classe_pagina_miniatura_campo_inscrever span{
+	
+	float: left;
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	
+}
+
+.classe_subtitulo_pagina_usuario{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_subtitulo_pagina_usuario{
+	
+    font-size: 16px;
+	margin-bottom: 5px;
+	margin-top: 3px;
+	text-align: right;
+
+}
+
+.classe_descricao_pagina{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 15px;
+	
+}
+
+.classe_descricao_pagina_titulo{
+	
+	float: left;
+	width: 29%;
+	margin-right: 1%;
+	padding-bottom: 3px;
+	
+}
+
+.classe_descricao_pagina_descreve{
+	
+	float: right;
+	width: 70%;
+	padding-bottom: 3px;
+	word-wrap: break-word;
+	
+}
+
+.classe_campo_editar_pagina{
+	
+	float: left;
+	width: 98%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+	margin-top: 23px;
+	padding-left: 1%;
+	padding-right: 1%;
+	
+}
+
+.classe_campo_editar_pagina_span{
+	
+	float: right;
+	margin-left: 25px;
+	
+}
+
+.classe_inscrever_pagina, .classe_inscrever_pagina_2{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-top: 8px;
+	
+}
+
+.classe_inscrever_pagina_2{
+	
+	margin-top: 0px;
+	
+}
+
+.classe_inscrever_pagina input[type="button"], .classe_inscrever_pagina button{
+	
+	width: 100%;
+	margin-bottom: 5px;
+	
+}
+
+.classe_numero_inscritos_pagina{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	padding-bottom: 5px;
+	
+}
+
+.classe_numero_inscritos_pagina span{
+
+    float: none;
+
+}
+
+.classe_construir_pagina_perfil{
+	
+	margin-bottom: 5px;
+	
+}
+
+.classe_pagina_miniatura:hover{
+	
+	background-color: #f8fbfd;
+	cursor: pointer;
+
+}
+
+.classe_campo_configurar_pagina, .classe_div_campo_excluir_pagina_separa{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	padding-bottom: 3px;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa{
+	
+	padding: 0px;
+	margin-bottom: 10px;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa_campo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa_campo:empty{
+	
+	display: none;
+	
+}
+
+.classe_pagina_miniatura_descreve{
+	
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	max-height: 165px;
+	overflow: hidden;
+	margin-left: 6px;
+	font-size: 12px;
+
+}
+
+.classe_pagina_miniatura_descreve:empty{
+	
+	display: none;
+}
+
+.classe_pagina_miniatura_conteudo{
+	
+	float: left;
+	display: table;
+	table-layout: fixed;
+	width: 79%;
+	margin-top: 8px;
+
+}
+
+.classe_pagina_miniatura_conteudo_pesquisa{
+	
+	float: left;
+	display: table;
+	table-layout: fixed;
+	width: 91%;
+	margin-top: 8px;
+
+}
+
+.classe_pagina_miniatura_conteudo_pesquisa div{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_imagens_topo_pagina{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	display: table;
+	margin-top: 5px;
+	margin-bottom: 8px;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa_entrada{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	display: table;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa_entrada input[type="password"]{
+	
+	float: left;
+	margin: 0px;
+	width: 250px;
+	
+}
+
+.classe_div_campo_excluir_pagina_separa_botao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_paginas_criadas_usuario{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	display: table;
+	background-color: #ffffff;	
+	border-radius: 3px;
+	
+}
+
+.classe_paginas_criadas_usuario_titulo{
+	
+	float: left;
+	width: 100%;
+	font-size: 15px;
+	margin-bottom: 20px;
+    font-family: "OpenSans-Bold";
+	
+}
+
+.classe_pagina_miniatura_data{
+	
+	float: left;
+	width: 98%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding-bottom: 3px;
+	margin-left: 5px;
+	font-size: 12px;
+	
+}
+
+.campo_botao_inscrever_pagina{
+	
+	float: left;
+	width: 96%;
+	display: table;
+	margin-left: 2%;
+	margin-right: 2%;
+	
+}
+
+.campo_botao_inscrever_pagina button{
+	
+	float: left;
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	
+}
+
+.classe_nome_link_pagina_span a{
+	
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_campo_imagem_perfil_pagina_mobile{
+	
+	width: 98%;
+	float: left;
+	padding-left: 1%;
+	padding-right: 1%;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+	margin-top: 8px;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1, .classe_opcoes_pesquisa_pagina_usuario_separa2{
+	
+	float: left;
+	width: 50%;
+	display: table;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1 input[type='text']{
+	
+	width: 100%;
+	margin: 0px;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa1{
+	
+	width: 60%;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa2{
+	
+	width: 38%;
+	margin-left: 2%;
+	
+}
+
+.classe_opcoes_pesquisa_pagina_usuario_separa2 select{
+	
+	margin: 0px;
+	
+}
+
+.classe_conteudo_recomendar_pagina{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_pagina_miniatura_titulo_titulo, .classe_pagina_miniatura_titulo_inscritos{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_exibe_inscritos_pagina_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_titulo_exibe_inscritos_pagina_usuario{
+
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-bottom: 10px;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_div_separa_amigo_visualizar_perfil_pagina{
+	
+	float: left;
+	width: 32.3%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_div_separa_amigo_visualizar_perfil_pagina_2{
+	
+	float: left;
+	width: 49%;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+	display: table;
+	margin-bottom: 5px;	
+	
+}
+
+.classe_pagina_ultima_visualizacao_usuario{
+	
+	float: right;
+	display: table;
+	position: relative;
+	width: 100%;
+	
+}
+
+.classe_campo_autor_pagina{
+	
+	float: left;
+	width: 96%;
+	display: table;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	
+}
+
+.classe_campo_autor_pagina_titulo{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	font-family: "OpenSans-Bold";
+	text-align: center;
+	
+}
+
+.classe_campo_autor_pagina_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_div_capa_usuario_campo_upload_pagina{
+	
+	float: left;
+	width: 93%;
+	padding-left: 1%;
+	display: table;
+	margin-top: 6px;
+
+}
+
+.classe_div_opcoes_capa_pagina{
+	
+	float: right;
+	width: auto;
+	display: table;
+	background: rgba(0,0,0,0.7);
+	padding: 5px;
+	border-radius: 5px
+
+}
+
+.classe_div_opcoes_capa_pagina:hover{
+	
+	background: rgba(0,0,0,1);
+
+}
+
+.classe_opcoes_imagem_perfil_pagina{
+	
+	float: left;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-top: 3px;
+	
+}
+
+.classe_div_capa_usuario_pagina{
+	
+	float: left;
+	width: 100%;
+	height: 275px;
+	position: relative;
+	margin-bottom: 15px;
+	
+}
+
+.classe_div_capa_usuario_imagem_pagina{
+	
+	float: left;
+	width: 100%;
+	display: block;
+	height: 100%;
+	overflow: hidden;	
+
+}

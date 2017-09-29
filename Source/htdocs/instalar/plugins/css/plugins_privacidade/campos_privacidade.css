@@ -1,0 +1,89 @@
+.classe_edita_perfil_privacidade_titulo{
+	
+	float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_separa_campo_formulario_edita_privacidade{
+	
+	float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	margin-bottom: 15px;
+	
+}
+
+.classe_separa_campo_formulario_edita_privacidade input[type="checkbox"]{
+
+    float: left;
+	margin-right: 5px;
+	margin-top: 3px;
+	
+}
+
+.classe_separa_campo_formulario_edita_privacidade span{
+
+    float: left;
+	margin-top: 0px;
+	
+}
+
+.classe_separa_campo_formulario_edita_privacidade textarea{
+
+    float: left;
+	width: 100%;
+	margin: 0px;
+	
+}
+
+.classe_separa_campo_formulario_edita_privacidade_switch{
+	
+	float: left;
+	width: 100%;
+	
+}
+
+.mensagem_privacidade_usuario{
+
+	float: left;
+	width: 96%;
+	margin-top: 3px;
+	margin-bottom: 2px;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+}
+
+.mensagem_privacidade_usuario_texto, .mensagem_privacidade_usuario_imagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 15px;
+	font-family: "OpenSans-Bold";
+	text-align: center;
+	
+}
+
+.mensagem_privacidade_usuario_imagem{
+	
+	margin-bottom: 0px;
+	
+}
+
+.mensagem_privacidade_usuario_imagem div{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}

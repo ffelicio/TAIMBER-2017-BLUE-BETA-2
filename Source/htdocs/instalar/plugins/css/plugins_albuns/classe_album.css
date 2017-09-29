@@ -1,0 +1,73 @@
+.classe_div_campo_album_perfil_basico{
+	
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	display: table;
+	box-sizing: border-box;
+	
+}
+
+.classe_div_campo_album_perfil_basico_imagens{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.classe_div_campo_album_perfil_basico_imagens_separa{
+	
+	float: left;
+	width: 24%;
+    margin-left: 0.5%;
+	margin-right: 0.5%;
+    height: 125px;
+	display: block;
+	overflow: hidden;
+	margin-bottom: 5px;
+	
+}
+
+.classe_imagem_album_usuario{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_div_imagens_album_titulo{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 8px;
+	display: table;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_div_imagens_album_conteudo, .classe_progresso_div_imagens_album{
+	
+	float: left;
+	width: 98%;
+	padding-left: 1%;
+	padding-right: 1%;	
+	
+}
+
+.classe_imagem_unica_album{
+	
+	float: none;
+	width: 98%;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+	table-layout: fixed;
+	text-align: center;
+	background-color: #000000;
+	
+}

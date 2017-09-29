@@ -1,0 +1,98 @@
+
+.classe_pesquisa_videos_informacoes{
+	
+	float: left;
+	width: 96%;
+	display: table;
+	padding-left: 2%;
+	padding-right: 2%;
+	
+}
+
+.classe_pesquisa_videos{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;	
+	background-color: #ffffff;
+	
+}
+
+.classe_pesquisa_videos_entrada{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	
+}
+
+.classe_pesquisa_videos_div_entrada_caixa_texto{
+	
+	float: left;
+	width: 74%;
+	margin-right: 1%;
+
+}
+
+.classe_pesquisa_videos_div_entrada_botao{
+	
+	float: left;
+	width: 24%;
+	padding-left: 1%;
+
+}
+
+.classe_pesquisa_videos_div_entrada_caixa_texto input[type="text"]{
+	
+	float: left;
+	width: 100%;
+	margin: 0px;
+	
+}
+
+.classe_resultados_pesquisa_videos, .classe_resultados_pesquisa_progresso{
+	
+	float: left;
+	width: 100%;
+
+}
+
+.classe_resultados_pesquisa_progresso{
+	
+	margin-top: 5px;
+	display: table;
+	
+}
+
+.classe_pesquisa_videos_informacoes{
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+}
+
+.classe_pesquisa_videos_links_1, .classe_pesquisa_videos_links_2{
+
+	float: left;
+	width:50%;
+	display: table;
+	
+}
+
+.classe_pesquisa_videos_links_2{
+
+	padding-top: 0px;
+	padding-bottom: 0px;
+	
+}
+
+.classe_pesquisa_videos_links_separa{
+	
+	float: left;
+	width: 100%;
+
+}

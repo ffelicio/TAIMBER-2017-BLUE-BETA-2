@@ -1,0 +1,155 @@
+.classe_div_campo_publicar{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 2%;
+	padding-right: 2%;
+	box-sizing: border-box;	
+	background-color: #ffffff;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	
+}
+
+.classe_div_campo_opcoes_publicar_centro{
+	
+	float: left;
+	width: 88%;
+	margin-left: 3%;
+	display: table;
+	position: relative;
+
+}
+
+.classe_div_campo_opcoes_publicar_perfil{
+	
+	float: left;
+	width: 8.5%;
+	display: table;
+	table-layout: fixed;
+	
+}
+
+.campo_imagem_perfil_campo_publicar{
+	
+	float: left;
+	display: table;
+	margin-bottom: 3px;
+	
+}
+
+.classe_div_campo_publicar_texto{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 3px;
+	
+}
+
+.classe_div_campo_publicar_texto_entrada{
+	
+	float: left;
+	width: 95.5%;
+	padding-left: 2%;
+	padding-right: 2%;
+	min-height: 35px;
+	background-color: #ffffff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	outline: none;
+	display: block;
+	
+}
+
+.classe_div_campo_publicar_texto_entrada img{
+	
+	max-width: 100%;
+	height: auto;
+	
+}
+
+.classe_div_campo_publicar_postar{
+	
+	float: right;
+	width: 30%;
+	display: table;
+	
+}
+
+.classe_div_campo_publicar_postar span{
+	
+	float: right;
+	margin: 0px;
+	
+}
+
+.classe_div_campo_publicar_imagens{
+
+	float: left;
+	width: 100%;
+
+}
+
+.classe_div_campo_opcoes_publicar{
+	
+	float: left;
+	width: 70%;
+	display: table;
+
+}
+
+.classe_div_campo_publicar_separa{
+
+    float: left;
+	display: table;
+	margin-bottom: 10px;
+	margin-right: 15px;
+	position: relative;
+	
+}
+
+.classe_div_publicacoes_usuario_novas{
+	
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+	
+}
+
+.classe_div_publicacoes_usuario{
+	
+	float: left;
+	width: 100%;
+	min-height: 250px;
+	margin-bottom: 10px;
+	
+}
+
+.classe_div_numero_publicacoes{
+	
+	float: left;
+	width: 100%;
+	text-align: center;
+	
+}
+
+.classe_div_numero_publicacoes_topo{
+	
+	float: left;
+	width: 100%;
+	font-size: 20px;
+    font-family: "OpenSans-Bold";	
+	
+}
+
+.classe_div_campo_publicar_opcoes_postagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}

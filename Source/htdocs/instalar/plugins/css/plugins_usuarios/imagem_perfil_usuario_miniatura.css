@@ -1,0 +1,65 @@
+.classe_div_imagem_perfil_miniatura{
+	
+	float: left;
+	width: 100%;
+    display: table;
+	position: relative;
+	margin-bottom: 2px;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_img{
+	
+	float: left;
+	width: 45px;
+	height: 45px;
+	overflow: hidden;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_img img{
+
+    float: left;
+	width: 100%;
+	min-height: 100%;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome, .classe_div_imagem_perfil_miniatura_div_nome_publicacao{
+	
+	float: left;
+	max-width: 160px;
+	margin-top: 20px;
+	white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+	text-transform: capitalize;
+	margin-left: 8px;
+
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome{
+	
+	margin-top: 10px;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_div_imagem_perfil_miniatura_div_nome_publicacao{
+	
+	max-width: 350px;
+
+}
+
+.classe_div_imagem_perfil_miniatura:hover, .classe_div_imagem_perfil_miniatura_div_nome_publicacao:hover{
+
+	cursor: pointer;
+	
+}
+
+.classe_div_imagem_perfil_miniatura_basico{
+	
+	float: left;
+	display: table;
+	
+}

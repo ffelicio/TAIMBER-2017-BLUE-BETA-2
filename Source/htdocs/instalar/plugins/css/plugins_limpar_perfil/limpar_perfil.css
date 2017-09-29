@@ -1,0 +1,26 @@
+.classe_campo_limpar_perfil{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	display: table;
+	table-layout: fixed;
+
+}
+
+.classe_campo_limpar_perfil_descricao, .classe_campo_limpar_perfil_opcoes, .classe_campo_limpar_perfil_campo_acao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;	
+
+}
+
+.classe_campo_limpar_perfil_opcoes select{
+
+    float: left;
+    width: 200px;	
+	
+}
+

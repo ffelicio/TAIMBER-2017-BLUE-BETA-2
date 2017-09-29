@@ -1,0 +1,41 @@
+.classe_link_media{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 5px;
+	
+}
+
+.classe_link_media_imagem_recomendar, .classe_link_media_imagem{
+	
+	float: left;
+	display: table;
+	margin-right: 8px;
+	
+}
+
+.classe_link_media_link_recomendar, .classe_link_media_link{
+	
+	float: left;
+	display: block;
+	width: 510px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	
+}
+
+.classe_link_media_link{
+	
+	width: 93%;
+	
+}
+
+.classe_lista_recomendacoes_medias_recomendar, .classe_lista_recomendacoes_medias{
+	
+	float: left;
+	width: 100%;
+	display: table;
+
+}

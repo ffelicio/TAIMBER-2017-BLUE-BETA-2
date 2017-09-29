@@ -1,0 +1,60 @@
+
+.classe_div_principal{
+	
+	margin: 0px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 100%;
+	min-width: 100%;
+	
+}
+
+.classe_div_conteudo_7, .classe_div_conteudo_4{
+
+	display: none;
+
+}
+
+.classe_div_imagem_perfil_grande{
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.classe_div_imagem_perfil_grande{
+	
+	float: left;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-color: #ffffff;
+	text-align: center;
+	
+}
+
+.classe_div_imagem_perfil_grande img{
+	
+	float: none;
+	width: 200px;
+
+}
+
+.classe_div_conteudo_6{
+	
+	border-width: 0px;
+	
+}
+
+.classe_div_topo{
+	
+	height: auto;
+	
+}
+
+.classe_div_conteudo_5{
+	
+	padding: 0px;
+	
+}

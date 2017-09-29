@@ -1,0 +1,109 @@
+.classe_formulario_cadastro, .classe_formulario_cadastro_campo, .classe_formulario_cadastro_titulo, .classe_formulario_cadastro_titulo_2, .classe_formulario_cadastro_campo_botao{
+
+	float: left;
+	width: 100%;
+	display: table;
+	box-sizing: border-box;
+
+}
+
+.classe_formulario_cadastro_campo{
+	
+	margin-bottom: 2px;
+	
+}
+
+.classe_formulario_cadastro_campo_botao{
+	
+	margin-top: 10px;
+	
+}
+
+.classe_formulario_cadastro_campo input[type='text']{
+	
+	width: 100%;
+	
+}
+
+.classe_formulario_cadastro_campo input[type='email']{
+	
+	width: 100%;
+	
+}
+
+.classe_formulario_cadastro_campo input[type="password"]{
+	
+	width: 80%;
+	
+}
+
+.classe_formulario_cadastro_topo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_formulario_cadastro_titulo{
+
+    text-align: center;
+	margin-bottom: 15px;
+	font-size: 24px;
+	font-family: "OpenSans-Bold";
+
+}
+
+.classe_formulario_cadastro_titulo_2{
+	
+	margin-top: 25px;
+	margin-bottom: 10px;
+	padding-bottom: 3px;
+	font-family: "OpenSans-Bold";
+	font-size: 13px;
+	
+}
+
+.classe_formulario_cadastro_titulo_3{
+	
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-bottom: 3px;
+	font-family: "OpenSans-Bold";
+	font-size: 13px;
+	
+}
+
+.span_campo_descreve_formulario_cadastro{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+	
+}
+
+.classe_formulario_cadastro_campo_termo{
+	
+	float: left;
+	width: 100%;
+	margin-top: 12px;
+	margin-bottom: 3px;
+	
+}
+
+.classe_formulario_cadastro_link_cadastro{
+	
+	float: left;
+	width: 100%;
+	text-align: center;
+	background-color: #ffffff;
+	padding-bottom: 20px;
+	
+}
+
+.classe_formulario_cadastro_link_cadastro a{
+	
+	font-size: 18px !important;	
+	font-family: "OpenSans-Bold";
+
+}

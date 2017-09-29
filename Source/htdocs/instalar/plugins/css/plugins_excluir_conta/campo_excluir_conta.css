@@ -1,0 +1,58 @@
+.classe_campo_excluir_conta{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 5px;
+	
+}
+
+.classe_campo_excluir_conta_titulo{
+
+    float: left;
+	width: 99%;
+	padding-left: 0.5%;
+	padding-right: 0.5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+    margin-bottom: 5px;
+	font-family: "OpenSans-Bold";
+	
+}
+
+.classe_campo_excluir_conta_mensagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;	
+	margin-bottom: 2px;
+
+}
+
+.classe_campo_excluir_conta_campo_login{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;	
+	margin-bottom: 3px;	
+	
+}
+
+.classe_campo_excluir_conta_campo_login input[type="password"]{
+	
+	width: 175px;
+	
+}
+
+.classe_campo_excluir_conta_campo_acao{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	
+}
+

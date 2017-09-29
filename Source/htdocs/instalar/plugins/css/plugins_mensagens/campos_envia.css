@@ -1,0 +1,73 @@
+.classe_campo_envia_mensagem{
+	
+	float: left;
+	width: 100%;
+	display: table;
+
+}
+
+.classe_campo_entrada_envia_mensagem_texto{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	margin-bottom: 8px;
+	
+}
+
+.classe_campo_entrada_envia_mensagem_texto textarea{
+
+    float: left;
+	width: 100%;
+	margin: 0px;
+	height: 50px;
+
+}
+
+.classe_seleciona_emoticons_envia_mensagem{
+	
+	float: left;
+	margin-right: 10px;
+	display: table;
+	margin-top: 1px;
+
+}
+
+.classe_campo_entrada_envia_mensagem_botao{
+	
+	float: left;
+	display: table;	
+
+}
+
+.botao_enviar_mensagem{
+	
+	float: left;
+	display: table;
+	width: 86%;
+	margin: 0px;
+	margin-left: 2% !important;
+	margin-right: 4% !important;
+	padding-left: 4% !important;
+	padding-right: 4% !important;
+
+}
+
+.botao_enviar_mensagem_imagem{
+	
+	float: left;
+	margin-left: 2%;
+	width: 11%;
+	margin-right: 4%;
+	margin-top: 1px;
+	
+}
+
+.botao_enviar_mensagem_texto{
+	
+	float: left;
+	width: 83%;
+	color: #ffffff;
+	
+}

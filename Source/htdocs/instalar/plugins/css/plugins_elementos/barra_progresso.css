@@ -1,0 +1,43 @@
+
+progress{
+
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+	width: 100px;
+	height: 15px;
+    background: #ffffff;
+    border:1px solid #5e81a8;
+
+}
+
+progress::-moz-progress-bar{
+
+    background: #5e81a8;
+
+}
+
+progress:not([value])::-moz-progress-bar{
+
+    background: #ffffff;
+ 
+}
+ 
+/* Chrome */
+progress::-webkit-progress-bar{
+
+    background: #ffffff;
+
+}
+
+progress::-webkit-progress-value{
+
+    background: #5e81a8;
+
+}
+
+progress:not([value])::-webkit-progress-bar{
+
+    background: #ffffff;
+
+}

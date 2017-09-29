@@ -1,0 +1,36 @@
+.classe_paginador_slide_album_1{
+	
+	position: absolute;
+	left: 2%;
+	top: 50px;
+	display: table;
+	cursor: pointer;
+	background: rgba(0,0,0,0.5);
+	opacity: 0.8;
+	padding: 5px;
+	padding-left: 0px;
+	padding-top: 7px;
+	
+}
+
+.classe_paginador_slide_album_2{
+	
+	position: absolute;
+	right: 2%;
+	top: 50px;
+	display: table;
+	cursor: pointer;
+	background: rgba(0,0,0,0.5);
+	opacity: 0.8;
+	padding: 5px;
+	padding-right: 0px;
+	padding-top: 7px;
+	border-radius: 5px;
+	
+}
+
+.classe_paginador_slide_album_1:hover, .classe_paginador_slide_album_2:hover{
+	
+	opacity: 1;
+	
+}

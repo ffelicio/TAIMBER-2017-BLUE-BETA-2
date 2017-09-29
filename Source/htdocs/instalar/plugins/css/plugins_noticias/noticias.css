@@ -1,0 +1,152 @@
+.classe_noticias_aba{
+	
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	display: table;
+	
+}
+
+.classe_noticias_recomendadas{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_noticias_recomendadas_conteudo{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_noticias_recomendadas_topo{
+
+	margin-bottom: 15px;
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+	display: table;
+	
+}
+
+.classe_noticias_filtradas_recomendar{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	table-layout: fixed;
+	word-wrap: break-word;
+	
+}
+
+.classe_noticia_sugerida{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 20px;
+
+}
+
+.classe_noticia_sugerida_titulo, .classe_noticia_sugerida_conteudo, .classe_noticia_sugerida_data{
+	
+	float: left;
+	width: 100%;
+	margin-bottom: 3px;
+	font-size: 12px;
+	
+}
+
+.classe_noticia_sugerida_titulo a{
+
+    font-family: "OpenSans-Bold";
+	
+}
+
+.classe_noticia_sugerida_conteudo{
+	
+	margin-bottom: 5px;
+	
+}
+
+.classe_noticia_sugerida_data{
+
+	font-size: 11px;
+	
+}
+
+.classe_campo_paginar_noticia_1, .classe_campo_paginar_noticia_2{
+	
+	float: left;
+	width: auto;
+	display: table;
+	cursor: pointer;
+
+}
+
+.classe_campo_paginar_noticia_1{
+	
+	margin-right: 3px;
+	
+}
+
+.classe_campo_paginar_noticia_2{
+	
+	margin-left: 3px;
+	
+}
+
+.campo_paginacao_noticias_aba{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	
+}
+
+.classe_campo_opcoes_noticias, .classe_campo_opcoes_noticias_entrada{
+	
+	float: left;
+	width: 100%;
+	display: table;
+	margin-bottom: 35px;
+	
+}
+
+.classe_campo_opcoes_noticias_entrada{
+	
+	margin-bottom: 0px;
+	padding-bottom: 5px;
+	position: relative;
+	
+}
+
+.classe_campo_opcoes_noticias_entrada input[type='text']{
+	
+	margin: 0px;
+	border-radius: 0px;
+	width: 230px;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+
+.classe_campo_opcoes_noticias_entrada img{
+	
+	position: absolute;
+	left: 8px;
+	top: 7px;
+	
+}
+
+.classe_noticia_sugerida_conteudo img{
+
+	max-width: 100%;
+	
+}
